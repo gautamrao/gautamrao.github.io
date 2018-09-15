@@ -1,0 +1,10 @@
+relativeURLs = true
+title = "Gautam Rao"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+
+[params]
+    shortbio = "Assistant Professor of Economics"
+    logo = "gr.jpg" 
+    

@@ -1,0 +1,49 @@
+works:
+- title: "The Importance of Being Marginal: Gender Differences in Generosity"
+  pdflink: "http://elsa.berkeley.edu/~sdellavi/wp/GenderGenerosityAERPP2013Final.pdf"
+  book: "American Economic Review Papers and Proceedings, May 2013"
+  coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
+  links:
+    - url: "http://elsa.berkeley.edu/~sdellavi/wp/GenderGenerosityAERP&P2013OnlineApp.pdf"
+      text: "online appendix"
+  abstract: >
+    Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
+
+- title: "Voting to Tell Others"
+  note: "Final Version: Sep 2016"
+  pdflink: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxncmFvZWNvbm9taWNzfGd4OjQ0MTUxZmFiMTlhN2YzZQ"
+  book: "Review of Economic Studies, January 2017"
+  coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
+  links:
+    - url: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxncmFvZWNvbm9taWNzfGd4OjNjZGM5MDJjNmUxMjExOA"
+      text: "online appendix"
+    - url: "https://sites.google.com/site/graoeconomics/Datafortheweb.zip?attredirects=0&d=1"
+      text: "data and code"
+  abstract: >
+    Why do people vote? We design a field experiment to estimate a model of voting `because others will ask'. The expectation of being asked motivates turnout if individuals derive pride from telling others that they voted, or feel shame from admitting that they did not vote, provided that lying is costly. In a door-to-door survey about election turnout, we experimentally vary (i) the informational content and use of a flyer pre-announcing the survey, (ii) the duration and payment for the survey, and (iii) the incentives to lie about past voting. The experimental results indicate significant social image concerns. For the 2010 Congressional election, we estimate a value of voting ‘to tell others’ of about $15, contributing 2 percentage points to turnout. Lastly, we evaluate a get-out-the-vote intervention in which we tell potential voters that we will ask if they voted.
+
+- title: "Status Goods: Experimental Evidence from Platinum Credit Cards"
+  note: "New: Dec 2017 version"
+  pdflink: "https://sites.google.com/site/graoeconomics/Status_goods_resubmitted_2017_09_20.pdf?attredirects=0&d=1"
+  book: "Quarterly Journal of Economics, August 2018"
+  coauthors: "Leonardo Bursztyn, Bruno Ferman, Stefano Fiorin and Martin Kanz"
+  links:
+    - url: "https://sites.google.com/site/graoeconomics/online%20appendix%20-%20status%20goods%20-%202017-12-06.pdf?attredirects=0&d=1"
+      text: "online appendix"
+    - url: "https://sites.google.com/site/graoeconomics/Status%20Goods%20-%20Data%20and%20Code.zip?attredirects=0&d=1"
+      text: "data and code"
+    - url: "https://www.socialscienceregistry.org/trials/828"
+      text: "APA pre-registration"
+  abstract: >
+    This paper provides novel field-experimental evidence on status goods. We work with an Indonesian bank that markets platinum credit cards to high-income customers. In a first experiment, we show that demand for the platinum card greatly exceeds demand for a nondescript control product with identical benefits, suggesting demand for the pure status aspect of the card. Transaction data reveal that platinum cards are more likely to be used in social contexts, implying social image motivations. Combining price variation with information on the use of the card sheds light on the magnitude of the demand for social status. In a second experiment, we provide evidence of positional externalities from the consumption of these status goods.  The final experiment shows that increasing self-esteem causally reduces demand for status goods. We infer that part of the demand for status is psychological in nature, and that social image is a substitute for self image.
+
+- title: "Familiarity Does Not Breed Contempt: Diversity, Discrimination and Generosity in Delhi Schools"
+  note: "Final Version: May 2018"
+  pdflink: "https://sites.google.com/site/graoeconomics/Rao_JMP_latest.pdf?attredirects=0"
+  book: "Forthcoming, American Economic Review"
+  links:
+    - url: "https://sites.google.com/site/graoeconomics/OnlineAppendixV1.1.pdf?attredirects=0"
+      text: "online appendix"
+  abstract: >
+    I exploit a natural experiment in Indian schools to study how being integrated with poor students affects the social behaviors and academic outcomes of rich students. Using administrative data, lab and field experiments to measure outcomes, I find that having poor classmates makes rich students (i) more prosocial, generous and egalitarian; and (ii) less likely to discriminate against poor students, and more willing to socialize with them. These effects are driven by personal interactions between rich and poor students. In contrast, I find mixed but overall modest impacts on rich students' academic achievement.
+

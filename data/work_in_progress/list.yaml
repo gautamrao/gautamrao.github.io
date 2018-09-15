@@ -1,0 +1,19 @@
+works:
+- title: "Behavioral Development Economics"
+  note: "Chapter under preparation for the Handbook of Behavioral Economics"
+  coauthors: "Michael Kremer"
+  links:
+    - url: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxncmFvZWNvbm9taWNzfGd4OjU2MTM3Y2YwOGM3MWViOTQ"
+      text: "slides"
+
+- title: "The Effect of Research Information on Policy Making: Evidence from Brazil"
+  coauthors: "Jonas Hjort, Diana Moreira and Juan Santini"
+
+- title: "The Endowment Effect and Collateralized Loans"
+  coauthors: "Kevin Carney, Xinyue Lin, and Michael Kremer"
+
+- title: "The Economic and Behavioral Effects of Poor Sleep Among the Urban Poor"
+  coauthors: "Frank Schilbach, Heather Schofield, Mattie Toma and Pedro Tepedino"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/2494"
+      text: "pre-registration"
