@@ -2,3 +2,4 @@ I am an Assistant Professor at the [Department of Economics](http://economics.ha
 
 My research seeks to bring insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. Recent projects include studying how a demand for social status affects consumption decision in Indonesia, how mixing rich and poor students in schools in India affects social preferences and behaviors, how citizens in the United States are motivated to vote by social image concerns, and how innovative financial contracts can help patients with hypertension overcome their self-control problems in rural India.
 
+__[Curriculum Vitae](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxncmFvZWNvbm9taWNzfGd4OjI5N2UxNzU1YzQ3M2M3MzQ)__ (Updated May 2018)

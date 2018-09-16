@@ -5,8 +5,8 @@ works:
   note: "New Version: June 2016"
   links:
     - url: "https://www.socialscienceregistry.org/trials/502"
-      text: "AEA pre-registration"
-      note: "This includes a full pre-registration of the structural model."
+      text: "AEA Pre-Registration"
+      note: "This includes a full pre-registration of the structural model"
   abstract: >
       We design a model-based field experiment to estimate the nature and magnitude of workers' social  references towards their employers. We hire 446 workers for a one-time task. Within worker, we vary (i) piece rates; (ii) whether the work has payoffs only for the worker, or also for the employer; and (iii) the return to the employer. We then introduce a surprise increase or decrease in pay (`gifts') from the employer. We find that workers have substantial baseline social preferences towards their employers, even in the absence of repeated-game incentives. Consistent with models of warm glow or social norms, but not of pure altruism, workers exert substantially more effort when their work is consequential to their employer, but are insensitive to the precise return to the employer. Turning to reciprocity, we find little evidence of a response to unexpected positive (or negative) gifts from the employer. Our structural estimates of the social preferences suggest that, if anything, positive reciprocity in response to monetary `gifts' may be larger than negative reciprocity. We revisit the results of previous field experiments on gift exchange using our model and derive a one-parameter expression for the implied reciprocity in these experiments.
 
@@ -16,7 +16,7 @@ works:
   coauthors: "Liang Bai, Benjamin Handel and Ted Miguel"
   links:
     - url: "https://www.socialscienceregistry.org/trials/62"
-      text: "AEA pre-registration"
+      text: "AEA Pre-Registration"
       note: "Including theoretical model and pre-analysis plan"
   abstract: >
     Self-control problems constitute a potential explanation for the under-investment in preventive health in low-income countries. Behavioral economics offers a tool to solve such problems: commitment devices. We conduct a field experiment to evaluate the effectiveness of different types of theoretically-motivated commitment contracts in increasing preventive doctor visits by hypertensive patients in rural India. Despite achieving high take-up of such contracts in some arms, we find no effects on actual doctor visits or individual health outcomes. A substantial number of individuals pay for commitment, but fail to follow through on the specified task, losing money without experiencing any health benefit. We develop and structurally estimate a pre-specified model of consumer behavior under present bias with varying levels of naivete. The results are consistent with a large share of individuals being partially naive about their own self-control problems: sophisticated enough to demand some commitment, but overly optimistic about whether a given level of commitment is sufficiently strong to be effective. The results suggest that commitment devices may in practice be welfare diminishing, at least in some contexts, and serve as a cautionary tale about their role in health care.
