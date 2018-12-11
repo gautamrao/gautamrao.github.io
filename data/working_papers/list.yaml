@@ -1,6 +1,6 @@
 works:
 - title: "Estimating Social Preferences and Gift Exchange at Work"
-  pdflink: "http://eml.berkeley.edu/~sdellavi/wp/SocialPreferencesTowardsEmployerJun16.pdf"
+  pdflink: "/pdf/SocialPreferencesTowardsEmployerJun16.pdf"
   coauthors: "with Stefano DellaVigna, John List and Ulrike Malmendier"
   note: "New Version: June 2016"
   links:
@@ -11,7 +11,7 @@ works:
       We design a model-based field experiment to estimate the nature and magnitude of workers' social  references towards their employers. We hire 446 workers for a one-time task. Within worker, we vary (i) piece rates; (ii) whether the work has payoffs only for the worker, or also for the employer; and (iii) the return to the employer. We then introduce a surprise increase or decrease in pay (`gifts') from the employer. We find that workers have substantial baseline social preferences towards their employers, even in the absence of repeated-game incentives. Consistent with models of warm glow or social norms, but not of pure altruism, workers exert substantially more effort when their work is consequential to their employer, but are insensitive to the precise return to the employer. Turning to reciprocity, we find little evidence of a response to unexpected positive (or negative) gifts from the employer. Our structural estimates of the social preferences suggest that, if anything, positive reciprocity in response to monetary `gifts' may be larger than negative reciprocity. We revisit the results of previous field experiments on gift exchange using our model and derive a one-parameter expression for the implied reciprocity in these experiments.
 
 - title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
-  pdflink: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxncmFvZWNvbm9taWNzfGd4OjViZjM4ODRiMjgwZTI5MWE"
+  pdflink: "/pdf/EHP_draft_complete_2018_04_04_GR.pdf"
   note: "New Version: April 2018"
   coauthors: "Liang Bai, Benjamin Handel and Ted Miguel"
   links:
