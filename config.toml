@@ -3,6 +3,7 @@ title = "Gautam Rao"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
+ignorefiles = [ "hugo" ]
 
 [params]
     shortbio = "Assistant Professor of Economics, Harvard University"
