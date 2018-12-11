@@ -10,7 +10,7 @@ Sidebar is controlled by the file `config.toml`.
 
 ### Bio, Contact, From Another Life, and Personal
 
-Those four sections are controlled by `content/sections/{aboutme.md, contact.md, from-another-life.md, personal.md}`. The files are formatted using "Markdown" (`.md`), a lightweight markup language. A quick guide is available [here](https://guides.github.com/features/mastering-markdown/). To modify those sections, simply edit the related Markdown file.
+Those four sections are controlled by `content/sections/{aboutme.md, contact.md, from-another-life.md, personal.md}`. The files are formatted using "Markdown" (`.md`), a lightweight markup language. A quick guide is available [here](https://guides.github.com/features/mastering-markdown/). To modify those sections, simply edit the corresponding Markdown file.
 
 ### Publications, Working Papers, and Work in Progress
 
