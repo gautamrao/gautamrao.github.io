@@ -4,4 +4,4 @@ My research tries to bring insights from psychology to bear on topics in economi
 
 I presently serve as an Associate Editor at the *Journal of Political Economy*. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). 
 
-__[Curriculum Vitae](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxncmFvZWNvbm9taWNzfGd4OjI5N2UxNzU1YzQ3M2M3MzQ)__ (Updated May 2018)
+__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf)__ (Updated May 2018)

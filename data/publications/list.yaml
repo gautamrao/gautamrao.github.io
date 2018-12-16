@@ -4,7 +4,7 @@ works:
   book: "American Economic Review Papers and Proceedings, May 2013"
   coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
   links:
-    - url: "http://elsa.berkeley.edu/~sdellavi/wp/GenderGenerosityAERP&P2013OnlineApp.pdf"
+    - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
       text: "Online Appendix"
   abstract: >
     Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
@@ -14,9 +14,9 @@ works:
   book: "Review of Economic Studies, January 2017"
   coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
   links:
-    - url: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxncmFvZWNvbm9taWNzfGd4OjNjZGM5MDJjNmUxMjExOA"
+    - url: "/pdf/VotingOnlineAppendix.pdf"
       text: "Online Appendix"
-    - url: "https://sites.google.com/site/graoeconomics/Datafortheweb.zip?attredirects=0&d=1"
+    - url: "/datacode/datafortheweb.tar.gz"
       text: "Data and Code"
   abstract: >
     Why do people vote? We design a field experiment to estimate a model of voting `because others will ask'. The expectation of being asked motivates turnout if individuals derive pride from telling others that they voted, or feel shame from admitting that they did not vote, provided that lying is costly. In a door-to-door survey about election turnout, we experimentally vary (i) the informational content and use of a flyer pre-announcing the survey, (ii) the duration and payment for the survey, and (iii) the incentives to lie about past voting. The experimental results indicate significant social image concerns. For the 2010 Congressional election, we estimate a value of voting ‘to tell others’ of about $15, contributing 2 percentage points to turnout. Lastly, we evaluate a get-out-the-vote intervention in which we tell potential voters that we will ask if they voted.
@@ -26,9 +26,9 @@ works:
   book: "Quarterly Journal of Economics, August 2018"
   coauthors: "Leonardo Bursztyn, Bruno Ferman, Stefano Fiorin and Martin Kanz"
   links:
-    - url: "https://sites.google.com/site/graoeconomics/online%20appendix%20-%20status%20goods%20-%202017-12-06.pdf?attredirects=0&d=1"
+    - url: "/pdf/online appendix - status goods - 2017-12-06.pdf"
       text: "Online Appendix"
-    - url: "https://sites.google.com/site/graoeconomics/Status%20Goods%20-%20Data%20and%20Code.zip?attredirects=0&d=1"
+    - url: "/datacode/Status Goods - Data and Code.zip"
       text: "Data and Code"
     - url: "https://www.socialscienceregistry.org/trials/828"
       text: "AEA Pre-Registration"
@@ -39,7 +39,7 @@ works:
   pdflink: "/pdf/Rao_JMP_latest.pdf"
   book: "American Economic Review, forthcoming"
   links:
-    - url: "https://sites.google.com/site/graoeconomics/OnlineAppendixV1.1.pdf?attredirects=0"
+    - url: "/pdf/OnlineAppendixV1.1.pdf"
       text: "Online Appendix"
   abstract: >
     I exploit a natural experiment in Indian schools to study how being integrated with poor students affects the social behaviors and academic outcomes of rich students. Using administrative data, lab and field experiments to measure outcomes, I find that having poor classmates makes rich students (i) more prosocial, generous and egalitarian; and (ii) less likely to discriminate against poor students, and more willing to socialize with them. These effects are driven by personal interactions between rich and poor students. In contrast, I find mixed but overall modest impacts on rich students' academic achievement.
