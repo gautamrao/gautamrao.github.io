@@ -6,11 +6,9 @@ Littauer Center M-30, Harvard University
 Cambridge, MA 02138  
 U.S.A.  
 
-__Office Hours__ (Students Only): Students enrolled in my class and Harvard Economics Ph.D. students or other advisees may sign up [here](https://raoofficehours.acuityscheduling.com/)   
-
 __Teaching__ (Spring 2019)  
 Econ 2338: Behavioral Development Economics   
 Econ 980: Behavioral Economics of Poverty and Development (junior seminar)
 
-__[Information](https://sites.google.com/site/graoeconomics/advisees)__ for (potential) advisees
+__[Information](/info_for_potential)__ for (potential) advisees
 
