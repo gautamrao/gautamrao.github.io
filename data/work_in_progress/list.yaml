@@ -1,12 +1,21 @@
 works:
 - title: "The Effect of Research Information on Policy Making: Evidence from Brazil"
-  coauthors: "Jonas Hjort, Diana Moreira and Juan Santini"
+  coauthors: "Jonas Hjort, Diana Moreira, and Juan Santini"
 
 - title: "The Endowment Effect and Collateralized Loans"
   coauthors: "Kevin Carney, Xinyue Lin, and Michael Kremer"
 
 - title: "The Economic and Behavioral Effects of Poor Sleep Among the Urban Poor"
-  coauthors: "Frank Schilbach, Heather Schofield, Mattie Toma and Pedro Tepedino"
+  coauthors: "Frank Schilbach, Heather Schofield, Mattie Toma, and Pedro Tepedino"
   links:
     - url: "https://www.socialscienceregistry.org/trials/2494"
       text: "Pre-Registration"
+
+- title: "The Economic Consequences of Depression"
+  coauthors: "Jon de Quidt, Johannes Haushofer, Frank Schilbach, and Pierre-Luc Vautrey"
+
+- title: "The Long-Run Impacts of Corporal Punishment in Schools"
+  coauthors: "Maria Petrova and Brian Wheaton"
+
+- title: "Learning in the Household"
+  coauthors: "Matthew Ridley and Frank Schilbach"
