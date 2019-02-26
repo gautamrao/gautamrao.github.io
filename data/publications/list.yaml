@@ -48,3 +48,8 @@ works:
   coauthors: "Michael Kremer and Frank Schilbach"
   pdflink: "/pdf/Kremer Rao Schilbach - Behavioral Development Economics.pdf"
   book: "Forthcoming in Handbook of Behavioral Economics, Volume 2 (2019). Douglas Bernheim, Stefano DellaVigna, and David Laibson (eds.)"
+links:
+    - url: "/pdf/Behavioral Devo Handbook slides.pdf"
+      text: "Slides (pdf)"
+    - url: "/datacode/Behavioral devo handbook TeX files.zip"
+      text: "Slides (tex and bib files)"
