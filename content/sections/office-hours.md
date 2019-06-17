@@ -1,3 +1,3 @@
-Tue 5-6 pm and Wed 4.30-6 pm or by appointment.
-
+Office hour appointments can be booked online or by email. 
 Online signup (students only):  https://raoofficehours.as.me/  
+Note: During Summer 2019, I am not offering regular office hours. Email me to set up a meeting.
