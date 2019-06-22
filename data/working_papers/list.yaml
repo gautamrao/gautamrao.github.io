@@ -1,15 +1,15 @@
 works:
-- title: "Estimating Social Preferences and Gift Exchange at Work"
-  pdflink: "/pdf/SocialPreferencesTowardsEmployerJun16.pdf"
+- title: "Estimating Social Preferences and Gift Exchange with a Piece-Rate Design"
+  pdflink: "/pdf/SocialPreferencesWorkJun19.pdf"
   coauthors: "with Stefano DellaVigna, John List and Ulrike Malmendier"
-  note: "Current Version: June 2016"
+  note: "Current Version: June 2019"
   links:
     - url: "https://www.socialscienceregistry.org/trials/502"
       text: "AEA Pre-Registration"
       note: "This includes a full pre-registration of the structural model"
   abstract: >
-      We design a model-based field experiment to estimate the nature and magnitude of workers' social  references towards their employers. We hire 446 workers for a one-time task. Within worker, we vary (i) piece rates; (ii) whether the work has payoffs only for the worker, or also for the employer; and (iii) the return to the employer. We then introduce a surprise increase or decrease in pay (`gifts') from the employer. We find that workers have substantial baseline social preferences towards their employers, even in the absence of repeated-game incentives. Consistent with models of warm glow or social norms, but not of pure altruism, workers exert substantially more effort when their work is consequential to their employer, but are insensitive to the precise return to the employer. Turning to reciprocity, we find little evidence of a response to unexpected positive (or negative) gifts from the employer. Our structural estimates of the social preferences suggest that, if anything, positive reciprocity in response to monetary `gifts' may be larger than negative reciprocity. We revisit the results of previous field experiments on gift exchange using our model and derive a one-parameter expression for the implied reciprocity in these experiments.
-
+      We design two field experiments to estimate the nature and magnitude of workers’ social preferences towards their employers. Unlike previous gift-exchange field experiments, we vary piece rates in addition to gift treatments. This piece-rate design allows us to estimate the elasticity of effort to motivation and in turn identify aspects of the workers’ social preferences. The first experiment measures productivity—units of output produced in a fixed amount of time. The second experiment measures a form of labor supply—the willingness to work for extra time. Using the piece-rate treatments, we document that productivity is rather unresponsive to motivation, while labor supply is very responsive. In terms of social preferences, we document, first, that workers provide effort for their employer, but are insensitive to the return to the employer. This result is consistent with models of ’warm glow’ or social norms, rather than pure altruism towards the employer. Second, while we do not detect any effect of the gifts in the productivity experiment, we find sizable positive impacts in the labor-supply experiment. We show that, at least in part, this different response to gifts is explained by different elasticities of productivity and labor supply, highlighting the importance of the piece-rate design.
+      
 - title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
   pdflink: "/pdf/EHP_draft_complete_2018_04_04_GR.pdf"
   note: "Current Version: April 2018"
