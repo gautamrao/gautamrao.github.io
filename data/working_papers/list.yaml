@@ -1,5 +1,25 @@
 works:
 
+
+- title: "How Research Affects Policy: Experimental Evidence from 2,150 Brazilian Municipalities"
+  pdflink: "/pdf/HMRS.pdf"
+  note: "Current Version: July 2019"
+  book: "Revise and Resubmit, American Economic Review"
+  coauthors: "Jonas Hjort, Diana Moreira, and Juan Francisco Santini"
+  abstract: >
+    This paper investigates if research findings change political leaders' beliefs and cause policy change. Collaborating with the National Confederation of Municipalities in Brazil, we work with 2,150 municipalities and the mayors who control their policies. We use experiments to measure mayors' demand for research information and their response to learning research findings. In one experiment, we find that mayors and other municipal officials are willing to pay to learn the results of impact evaluations, and update their beliefs when informed of the findings. They value larger-sample studies more, while not distinguishing on average between studies conducted in rich and poor countries. In a second experiment, we find that informing mayors about research on a simple and effective policy (reminder letters for taxpayers) increases the probability that their municipality implements the policy by 10 percentage points. In sum, we provide direct evidence that providing research information to political leaders can lead to policy change. Information frictions may thus help explain failures to adopt effective policies.
+
+
+- title: "The Economic Consequences of Increasing Sleep Among the Urban Poor"
+  pdflink: "/pdf/Sleep-2020-02-03-nber.pdf"
+  note: "Current Version: January 2020"
+  coauthors: "Pedro Bessone, Frank Schilbach, Heather Schofield and Mattie Toma"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/2494"
+      text: "Pre-Registration"
+  abstract: >
+    This paper measures sleep among the urban poor in India and estimates the economic returns to increased sleep. Adults in Chennai have strikingly low quantity and quality of sleep relative to typical guidelines: despite spending 8 hours in bed, they achieve only  5.6 hours per night of sleep, with 32 awakenings per night. A three-week treatment providing information, encouragement, and sleep-related items increased sleep quantity by 27 minutes per night without improving sleep quality. Increased night sleep had no detectable effects on cognition, productivity, decision-making, or psychological and physical well-being, and led to small decreases in labor supply and thus earnings. In contrast, offering high-quality naps at the workplace increased productivity, cognition, psychological well-being, and patience. Taken together, the returns to increased night sleep are low, at least at the low-quality levels typically available in home environments in Chennai. We find suggestive evidence that higher-quality sleep improves important economic and psychological outcomes.
+
 - title: "Estimating Social Preferences and Gift Exchange with a Piece-Rate Design"
   pdflink: "/pdf/SocialPreferencesWorkJun19.pdf"
   coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
@@ -10,14 +30,6 @@ works:
       note: "This includes a full pre-registration of the structural model"
   abstract: >
       We design two field experiments to estimate the nature and magnitude of workers’ social preferences towards their employers. Unlike previous gift-exchange field experiments, we vary piece rates in addition to gift treatments. This piece-rate design allows us to estimate the elasticity of effort to motivation and in turn identify aspects of the workers’ social preferences. The first experiment measures productivity—units of output produced in a fixed amount of time. The second experiment measures a form of labor supply—the willingness to work for extra time. Using the piece-rate treatments, we document that productivity is rather unresponsive to motivation, while labor supply is very responsive. In terms of social preferences, we document, first, that workers provide effort for their employer, but are insensitive to the return to the employer. This result is consistent with models of ’warm glow’ or social norms, rather than pure altruism towards the employer. Second, while we do not detect any effect of the gifts in the productivity experiment, we find sizable positive impacts in the labor-supply experiment. We show that, at least in part, this different response to gifts is explained by different elasticities of productivity and labor supply, highlighting the importance of the piece-rate design.
-
-- title: "How Research Affects Policy: Experimental Evidence from 2,150 Brazilian Municipalities"
-  pdflink: "/pdf/HMRS.pdf"
-  note: "Current Version: July 2019"
-  book: "Revise and Resubmit, American Economic Review"
-  coauthors: "Jonas Hjort, Diana Moreira, and Juan Francisco Santini"
-  abstract: >
-    This paper investigates if research findings change political leaders' beliefs and cause policy change. Collaborating with the National Confederation of Municipalities in Brazil, we work with 2,150 municipalities and the mayors who control their policies. We use experiments to measure mayors' demand for research information and their response to learning research findings. In one experiment, we find that mayors and other municipal officials are willing to pay to learn the results of impact evaluations, and update their beliefs when informed of the findings. They value larger-sample studies more, while not distinguishing on average between studies conducted in rich and poor countries. In a second experiment, we find that informing mayors about research on a simple and effective policy (reminder letters for taxpayers) increases the probability that their municipality implements the policy by 10 percentage points. In sum, we provide direct evidence that providing research information to political leaders can lead to policy change. Information frictions may thus help explain failures to adopt effective policies.
 
 - title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
   pdflink: "/pdf/SelfControl_2019_08.pdf"
@@ -30,13 +42,3 @@ works:
       note: "Including theoretical model and pre-analysis plan"
   abstract: >
     Self-control problems constitute a potential explanation for the under-investment in preventive health in low-income countries. Behavioral economics offers a tool to solve such problems: commitment devices. We conduct a field experiment to evaluate the effectiveness of different types of theoretically-motivated commitment contracts in increasing preventive doctor visits by hypertensive patients in rural India. Despite achieving high take-up of such contracts in some treatment arms, we find no effects on actual doctor visits or individual health outcomes. A substantial number of individuals pay for commitment but fail to follow through on the doctor visit, losing money without experiencing health benefits. We develop and structurally estimate a pre-specified model of consumer behavior under present bias with varying levels of naivete. The results are consistent with a large share of individuals being partially naive about their own self-control problems: sophisticated enough to demand some commitment, but overly optimistic about whether a given level of commitment is sufficiently strong to be effective. The results suggest that commitment devices may in practice be welfare diminishing, at least in some contexts, and serve as a cautionary tale about their role in health care.
-
-- title: "The Economic Consequences of Increasing Sleep Among the Urban Poor"
-  pdflink: "/pdf/Sleep-2020-02-03-nber.pdf"
-  note: "Current Version: January 2020"
-  coauthors: "Pedro Bessone, Frank Schilbach, Heather Schofield and Mattie Toma"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/2494"
-      text: "Pre-Registration"
-  abstract: >
-    This paper measures sleep among the urban poor in India and estimates the economic returns to increased sleep. Adults in Chennai have strikingly low quantity and quality of sleep relative to typical guidelines: despite spending 8 hours in bed, they achieve only  5.6 hours per night of sleep, with 32 awakenings per night. A three-week treatment providing information, encouragement, and sleep-related items increased sleep quantity by 27 minutes per night without improving sleep quality. Increased night sleep had no detectable effects on cognition, productivity, decision-making, or psychological and physical well-being, and led to small decreases in labor supply and thus earnings. In contrast, offering high-quality naps at the workplace increased productivity, cognition, psychological well-being, and patience. Taken together, the returns to increased night sleep are low, at least at the low-quality levels typically available in home environments in Chennai. We find suggestive evidence that higher-quality sleep improves important economic and psychological outcomes.
