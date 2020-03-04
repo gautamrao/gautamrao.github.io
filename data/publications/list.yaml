@@ -55,3 +55,15 @@ works:
       text: "Slides (tex and bib files)"
     - url: "/pdf/Kremer et al - Behavioral Development Economics - 2019-03-07.pptx"
       text: "Slides (ppt)"
+      
+ - title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
+  pdflink: "/pdf/Bai_Self_Control_2020-02-16-gr.pdf"
+  note: "Current Version: Feb 2020"
+  book: "Accepted, Review of Economics and Statistics"
+  coauthors: "Liang Bai, Benjamin Handel and Ted Miguel"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/62"
+      text: "Pre-Registration"
+      note: "Including theoretical model and pre-analysis plan"
+  abstract: >
+    Self-control problems constitute a potential explanation for the under-investment in preventive health in low-income countries. Behavioral economics offers a tool to solve such problems: commitment devices. We conduct a field experiment to evaluate the effectiveness of different types of theoretically-motivated commitment contracts in increasing preventive doctor visits by hypertensive patients in rural India. Despite achieving high take-up of such contracts in some treatment arms, we find no effects on actual doctor visits or individual health outcomes. A substantial number of individuals pay for commitment but fail to follow through on the doctor visit, losing money without experiencing health benefits. We develop and structurally estimate a pre-specified model of consumer behavior under present bias with varying levels of naivete. The results are consistent with a large share of individuals being partially naive about their own self-control problems: sophisticated enough to demand some commitment, but overly optimistic about whether a given level of commitment is sufficiently strong to be effective. The results suggest that commitment devices may in practice be welfare diminishing, at least in some contexts, and serve as a cautionary tale about their role in health care.
