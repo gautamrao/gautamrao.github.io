@@ -54,7 +54,7 @@ works:
     - url: "/datacode/Behavioral devo handbook TeX files.zip"
       text: "Slides (tex and bib files)"
     - url: "/pdf/Kremer et al - Behavioral Development Economics - 2019-03-07.pptx"
-      text: "Slides (ppt)"
+      text: "Slides (ppt)."
       
  - title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
    pdflink: "static/pdf/Bai_Self_Control_2020-02-16-gr.pdf"
