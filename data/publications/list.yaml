@@ -57,7 +57,7 @@ works:
       text: "Slides (ppt)"
       
  - title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
-  pdflink: "/pdf/Bai_Self_Control_2020-02-16-gr.pdf"
+  pdflink: "static/pdf/Bai_Self_Control_2020-02-16-gr.pdf"
   book: "Accepted, Review of Economics and Statistics"
   coauthors: "Liang Bai, Benjamin Handel and Ted Miguel"
   links:
