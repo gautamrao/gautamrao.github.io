@@ -10,15 +10,15 @@ works:
     Can research findings change political leaders' beliefs and cause policy change? Collaborating with the National Confederation of Municipalities in Brazil, we work with 2,150 municipalities and their mayors. We use experiments to measure mayors' demand for research information and their response to learning research findings. In one experiment, we find that mayors and other municipal officials are personally willing to pay to learn the results of impact evaluations, and update their beliefs when informed of the findings. They value larger-sample studies more, while not distinguishing on average between studies conducted in rich and poor countries. In a second experiment, we find that informing mayors about research on a simple and effective policy (reminder letters for taxpayers) increases the probability that their municipality implements the policy by 10 percentage points. In sum, we provide direct evidence that policy-makers value research information, change their beliefs when presented with it, and that this can drive policy change. Information frictions may thus help explain  failures to adopt effective policies.
 
 - title: "The Economic Consequences of Increasing Sleep Among the Urban Poor"
-  pdflink: "/pdf/Sleep-2020-02-03-nber.pdf"
-  note: "Current Version: January 2020"
-  book: "Revise and Resubmit, Quarterly Journal of Economics"
+  pdflink: "/pdf/Bessone et al - Sleep - 2020.pdf"
+  note: "Current Version: November 2020"
+  book: "Revised and Resubmitted, Quarterly Journal of Economics"
   coauthors: "Pedro Bessone, Frank Schilbach, Heather Schofield and Mattie Toma"
   links:
     - url: "https://www.socialscienceregistry.org/trials/2494"
       text: "Pre-Registration"
   abstract: >
-    This paper measures sleep among the urban poor in India and estimates the economic returns to increased sleep. Adults in Chennai have strikingly low quantity and quality of sleep relative to typical guidelines: despite spending 8 hours in bed, they achieve only  5.6 hours per night of sleep, with 32 awakenings per night. A three-week treatment providing information, encouragement, and sleep-related items increased sleep quantity by 27 minutes per night without improving sleep quality. Increased night sleep had no detectable effects on cognition, productivity, decision-making, or psychological and physical well-being, and led to small decreases in labor supply and thus earnings. In contrast, offering high-quality naps at the workplace increased productivity, cognition, psychological well-being, and patience. Taken together, the returns to increased night sleep are low, at least at the low-quality levels typically available in home environments in Chennai. We find suggestive evidence that higher-quality sleep improves important economic and psychological outcomes.
+    Using state-of-the-art technology, we document that adults in Chennai sleep only 5.5 hours per night on average  despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency---sleep per time in bed---comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week  treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes per night but came at the cost of more time in bed. Contrary to expert predictions, increased night sleep had no detectable effects on cognition, productivity, decision-making or well-being, and led to small decreases in labor supply. Yet, increased sleep can have benefits in this setting:  short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognitive function, but less time available for work.
 
 - title: "Estimating Social Preferences and Gift Exchange with a Piece-Rate Design"
   pdflink: "/pdf/SocialPreferencesWorkJun19.pdf"
