@@ -7,5 +7,5 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "Associate Professor of Economics, Harvard University"
-    logo = "raoProfilePic2.jpg" 
+    logo = "gr.jpg" 
     
