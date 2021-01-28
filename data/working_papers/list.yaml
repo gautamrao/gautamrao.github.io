@@ -31,7 +31,7 @@ works:
   book: "Submitted"
   links:
     - text: "Conferences"
-      note: "MFA 2018; FMA 2018, Australasian Finance and Banking Conference (ABFC) 2018."
+      note: "MFA 2018, FMA 2018, Australasian Finance and Banking Conference (ABFC) 2018."
   note: "Media Coverage: Columbia Law School (CLS) Blue Sky Blog"
   abstract: >
       Do changes in the IPO regulatory environment affect private firms’ exit choices, bargaining abilities, and valuations? Using the JOBS Act as an exogenous shock to the exit decisions among private firms, we observe that their valuations as M&A targets increase after the Act, negatively affecting acquirer wealth gains. These results are more prominent for VC-backed targets. We also find that stock (cash) deals decrease (increase) for private firms after the Act. Our results are robust to endogeneity concerns, sampling bias, alternative measures, placebo tests, merger waves, and various other vigorous checks.
@@ -57,7 +57,7 @@ works:
   book: "Submitted"
   links:
     - text: "Conferences"
-      note: "FMA 2020; Financial Research Group (FRG) Field Workshop 2020."
+      note: "FMA 2020, Financial Research Group (FRG) Field Workshop 2020."
   note: "Media Coverage: Oxford Business Law Blog"
   abstract: >
       This paper examines the type of firm culture which leads to corporate misconduct activities. Using the management's tone in the 10-K report as a proxy for culture,  we find that higher internal “compete” culture (or tournament culture) increases  corporate misconduct activities such as restatements, earnings management, and accounting fraud by increasing the firm risk.The results are robust to external validity tests, firm-specific systematic risk, market competition, governance characteristics, CEO effects, and endogeneity concerns. 
