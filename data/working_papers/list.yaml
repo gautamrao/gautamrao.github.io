@@ -51,16 +51,6 @@ works:
       
  
       
- - title: "Tournament Culture and Corporate Misconduct"
-   pdflink: "/pdf/Culture_Nov_2020.pdf"
-   coauthors: "Franco Fiordelisi"
-   note: "Current Version: November 2020"
-   book: "Submitted"
-   links:
-    - text: "Conferences"
-      note: "FMA 2020; Financial Research Group (FRG) Field Workshop 2020."
-   note: "Media Coverage: Oxford Business Law Blog"
-   abstract: >
-      This paper examines the type of firm culture which leads to corporate misconduct activities. Using the management's tone in the 10-K report as a proxy for culture,  we find that higher internal “compete” culture (or tournament culture) increases  corporate misconduct activities such as restatements, earnings management, and accounting fraud by increasing the firm risk.The results are robust to external validity tests, firm-specific systematic risk, market competition, governance characteristics, CEO effects, and endogeneity concerns. 
-
+ - title: "Tournament Culture and Corporate Misconduct: Evidence using Machine Learning"
+   
   
