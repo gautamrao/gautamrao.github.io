@@ -44,9 +44,22 @@ works:
   note: "Current Version: December 2020"
   links:
     - text: "Conferences"
-      note: "New York University (NYU) - National Stock Exchange (NSE) Conference 2018, Global PhD Colloquium 2019, FMA 2020"
+      note: "New York University (NYU) - National Stock Exchange (NSE) Conference 2018, Global PhD Colloquium 2019, FMA 2020."
   note: "Media Coverage: NSE White Paper Series"
   abstract: >
       This paper examines how debt markets price firms' Corporate Social Responsibility (CSR) activities, in a setting where it is  not a strategic choice but rather mandated by regulation. Using both a difference-in-difference and a regression discontinuity empirical specification, the paper reports that binding CSR rule increase yield-spreads on bonds by 22 basis points.  Firms with a business group affiliation show a reduction in yield spreads and state-owned companies an  increase in yield-spreads. The increase in yield-spreads is mitigated by good governance with well governed firms having lower yield-spreads. These findings add to the contribution of Manchiraju and Rajgopal (2017), which reports that such mandatory rules are detrimental to stockholders’ wealth.      
       
+ 
       
+ - title: "Tournament Culture and Corporate Misconduct: Evidence using Machine Learning"
+  pdflink: "/pdf/Culture_Nov_2020.pdf"
+  coauthors: "Franco Fiordelisi"
+  note: "Current Version: November 2020"
+  book: "Submitted"
+  links:
+    - text: "Conferences"
+      note: "FMA 2020; Financial Research Group (FRG) Field Workshop 2020."
+  note: "Media Coverage: Oxford Business Law Blog"
+  abstract: >
+      This paper examines the type of firm culture which leads to corporate misconduct activities. Using the management's tone in the 10-K report as a proxy for culture,  we find that higher internal “compete” culture (or tournament culture) increases  corporate misconduct activities such as restatements, earnings management, and accounting fraud by increasing the firm risk.The results are robust to external validity tests, firm-specific systematic risk, market competition, governance characteristics, CEO effects, and endogeneity concerns. 
+
