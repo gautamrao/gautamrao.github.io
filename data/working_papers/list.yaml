@@ -7,9 +7,7 @@ works:
   links:
     - text: "Conferences"
       note: "AFA 2021 (Poster Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021 (Scheduled), Australasian Finance and Banking Conference (AFBC) 2021."
-  links:
-    - text: "Media Coverage"
-      note: "Oxford Business Law Blog, BeingBrief.in"
+  note: "Media Coverage: Oxford Business Law Blog, BeingBrief.in"
   abstract: >
       This paper examines whether similarity in social identities between a manager and the board affects executive compensation, firm value, and agency frictions. By using a novel dataset on surnames with multiple identities (native language, native place, and caste), developed by merging micro census data of 474 million Indians  with data from Linguistic Survey of India (LSI), I provide evidence that the firms with a shared group identity between a manager and the board do well compare to other firms. Due to in-group favoritism, managers of such firms earn higher compensation. These results are more substantial for group identity based on native language and native place. I also find that the firm benefits from taking on the cost of in-group favoritism as it reduces the agency frictions and increases firm value in the long run. These results are robust to the endogeneity test, managerial influence on firm,  college ties, ties from past employment, and various other checks.
 
@@ -34,9 +32,7 @@ works:
   links:
     - text: "Conferences"
       note: "MFA 2018; FMA 2018, Australasian Finance and Banking Conference (ABFC) 2018."
-  links:
-    - text: "Media Coverage"
-      note: "Columbia Law School (CLS) Blue Sky Blog"
+  note: "Media Coverage: Columbia Law School (CLS) Blue Sky Blog"
   abstract: >
       Do changes in the IPO regulatory environment affect private firms’ exit choices, bargaining abilities, and valuations? Using the JOBS Act as an exogenous shock to the exit decisions among private firms, we observe that their valuations as M&A targets increase after the Act, negatively affecting acquirer wealth gains. These results are more prominent for VC-backed targets. We also find that stock (cash) deals decrease (increase) for private firms after the Act. Our results are robust to endogeneity concerns, sampling bias, alternative measures, placebo tests, merger waves, and various other vigorous checks.
       
