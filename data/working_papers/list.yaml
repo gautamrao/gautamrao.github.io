@@ -1,16 +1,17 @@
 works:
 
 
-- title: "The Economic Consequences of Increasing Sleep Among the Urban Poor"
-  pdflink: "/pdf/Bessone et al - Sleep - 2020.pdf"
-  note: "Current Version: November 2020"
-  book: "Revised and Resubmitted, Quarterly Journal of Economics"
-  coauthors: "Pedro Bessone, Frank Schilbach, Heather Schofield and Mattie Toma"
+- title: "Group Identity and Agency Frictions: Evidence using Big Data"
+  pdflink: "/pdf/Group_identity_Jan_2020.pdf"
+  note: "Current Version: December 2020"
   links:
-    - url: "https://www.socialscienceregistry.org/trials/2494"
-      text: "Pre-Registration"
+    - text: "Conferences"
+      note: "AFA 2021 (Poster Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021 (Scheduled), Australasian Finance and Banking Conference (AFBC) 2021."
+  links:
+    - text: "Media Coverage"
+      note: "Oxford Business Law Blog, BeingBrief.in"
   abstract: >
-    Using state-of-the-art technology, we document that adults in Chennai sleep only 5.5 hours per night on average  despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency---sleep per time in bed---comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week  treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes per night but came at the cost of more time in bed. Contrary to expert predictions, increased night sleep had no detectable effects on cognition, productivity, decision-making or well-being, and led to small decreases in labor supply. Yet, increased sleep can have benefits in this setting:  short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognitive function, but less time available for work.
+      This paper examines whether similarity in social identities between a manager and the board affects executive compensation, firm value, and agency frictions. By using a novel dataset on surnames with multiple identities (native language, native place, and caste), developed by merging micro census data of 474 million Indians  with data from Linguistic Survey of India (LSI), I provide evidence that the firms with a shared group identity between a manager and the board do well compare to other firms. Due to in-group favoritism, managers of such firms earn higher compensation. These results are more substantial for group identity based on native language and native place. I also find that the firm benefits from taking on the cost of in-group favoritism as it reduces the agency frictions and increases firm value in the long run. These results are robust to the endogeneity test, managerial influence on firm,  college ties, ties from past employment, and various other checks.
 
 - title: "Estimating Social Preferences and Gift Exchange with a Piece-Rate Design"
   pdflink: "/pdf/SocialPreferencesWorkJun19.pdf"
