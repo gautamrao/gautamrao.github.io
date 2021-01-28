@@ -7,7 +7,9 @@ works:
   links:
     - text: "Conferences"
       note: "AFA 2021 (Poster Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021 (Scheduled), Australasian Finance and Banking Conference (AFBC) 2021."
-  note: "Media Coverage: Oxford Business Law Blog, BeingBrief.in"
+  links:
+    - text: "Media Coverage"
+      note: "Oxford Business Law Blog, BeingBrief.in"
   abstract: >
       This paper examines whether similarity in social identities between a manager and the board affects executive compensation, firm value, and agency frictions. By using a novel dataset on surnames with multiple identities (native language, native place, and caste), developed by merging micro census data of 474 million Indians  with data from Linguistic Survey of India (LSI), I provide evidence that the firms with a shared group identity between a manager and the board do well compare to other firms. Due to in-group favoritism, managers of such firms earn higher compensation. These results are more substantial for group identity based on native language and native place. I also find that the firm benefits from taking on the cost of in-group favoritism as it reduces the agency frictions and increases firm value in the long run. These results are robust to the endogeneity test, managerial influence on firm,  college ties, ties from past employment, and various other checks.
 
@@ -22,3 +24,48 @@ works:
       note: "AFA 2021 (Poster Session), FMA 2019, MFA 2021 (Scheduled)."
   abstract: >
       Calls for conscious capitalism have spurred numerous innovations in firm governance. In this study, we assess whether there is a cost to investors for one such innovation—state-level constituency statutes that permit board members to consider the interests of all stakeholders—not just shareholders—when making decisions. As competing demands from stakeholders increase, we argue monitoring by boards will be hampered, resulting in reduced transparency to investors by managers. Using a sample of U.S. publicly traded firms (1981-2010), we observe significant decline in transparency by firms incorporated in states with such statutes. While we find firms experiencing losses use conscious capitalism as an umbrella to remain opaque, firms that need financial markets for capital remain transparent despite such statutes. Our paper contributes to the debate on the ‘objective of the firm’ by showing that adopting stakeholder governance without addressing its challenges may lead to managerial entrenchment and affect transparency negatively.
+
+
+- title: "Impact of JOBS Act on M&As"
+  pdflink: "/pdf/Jobs_act_July_2020.pdf"
+  coauthors: "Sudip Gapta, Iftekhar Hasan, and Anthony Saunders"
+  note: "Current Version: July 2020"
+  book: "Submitted"
+  links:
+    - text: "Conferences"
+      note: "MFA 2018; FMA 2018, Australasian Finance and Banking Conference (ABFC) 2018."
+  links:
+    - text: "Media Coverage"
+      note: "Columbia Law School (CLS) Blue Sky Blog"
+  abstract: >
+      Do changes in the IPO regulatory environment affect private firms’ exit choices, bargaining abilities, and valuations? Using the JOBS Act as an exogenous shock to the exit decisions among private firms, we observe that their valuations as M&A targets increase after the Act, negatively affecting acquirer wealth gains. These results are more prominent for VC-backed targets. We also find that stock (cash) deals decrease (increase) for private firms after the Act. Our results are robust to endogeneity concerns, sampling bias, alternative measures, placebo tests, merger waves, and various other vigorous checks.
+      
+      
+ 
+- title: "How do Debt Markets React to Mandatory CSR? : Evidence using Indian Companies Act 2013"
+  pdflink: "/pdf/CSR_debt_Dec_2020.pdf"
+  coauthors: "Iftekhar Hasan and N.K. Chidambaran"
+  note: "Current Version: December 2020"
+  links:
+    - text: "Conferences"
+      note: "New York University (NYU) - National Stock Exchange (NSE) Conference 2018, Global PhD Colloquium 2019, FMA 2020"
+  links:
+    - text: "Media Coverage"
+      note: "NSE White Paper Series"
+  abstract: >
+      This paper examines how debt markets price firms' Corporate Social Responsibility (CSR) activities, in a setting where it is  not a strategic choice but rather mandated by regulation. Using both a difference-in-difference and a regression discontinuity empirical specification, the paper reports that binding CSR rule increase yield-spreads on bonds by 22 basis points.  Firms with a business group affiliation show a reduction in yield spreads and state-owned companies an  increase in yield-spreads. The increase in yield-spreads is mitigated by good governance with well governed firms having lower yield-spreads. These findings add to the contribution of Manchiraju and Rajgopal (2017), which reports that such mandatory rules are detrimental to stockholders’ wealth.      
+      
+      
+ - title: "Tournament Culture and Corporate Misconduct: Evidence using Machine Learning"
+  pdflink: "/pdf/Culture_Nov_2020.pdf"
+  coauthors: "Franco Fiordelisi"
+  note: "Current Version: November 2020"
+  book: "Submitted"
+  links:
+    - text: "Conferences"
+      note: "FMA 2020; Financial Research Group (FRG) Field Workshop 2020."
+  links:
+    - text: "Media Coverage"
+      note: "Oxford Business Law Blog"
+  abstract: >
+      This paper examines the type of firm culture which leads to corporate misconduct activities. Using the management's tone in the 10-K report as a proxy for culture,  we find that higher internal “compete” culture (or tournament culture) increases  corporate misconduct activities such as restatements, earnings management, and accounting fraud by increasing the firm risk.The results are robust to external validity tests, firm-specific systematic risk, market competition, governance characteristics, CEO effects, and endogeneity concerns. 
