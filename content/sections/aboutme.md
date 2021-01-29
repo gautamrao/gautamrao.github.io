@@ -1,4 +1,4 @@
-I am a Ph.D. student at Gabelli School of Business, Fordham University.
+I am a Ph.D. candidate at Gabelli School of Business, Fordham University.
 
 My current research focuses on the interaction of behavioral and environmental economics with corporate finance and corporate governance.
 
