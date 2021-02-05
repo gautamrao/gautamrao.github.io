@@ -1,0 +1,23 @@
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "js/scale.fix.js" | relURL }}"></script>
+    {{ template "_internal/google_analytics_async.html" . }}
+    <script>
+		function toggle(pid) {
+            objid = "pubabs_" + pid.toString();
+            linkid = "pubabslink_" + pid.toString();
+            absobj = document.getElementById(objid);
+            linkobj = document.getElementById(linkid);
+			if (absobj.style.display === "none") {
+				absobj.style.display = "inline";
+                linkobj.style.display = "none";
+			}
+			else {
+				absobj.style.display = "none";
+                linkobj.style.display = "inline";
+            }
+		}
+	</script>
+  </body>
+</html>
