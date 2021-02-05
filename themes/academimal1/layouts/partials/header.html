@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{{ .Site.Title }} | {{ .Title }}</title>
+        <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    </head>
+    <body>
+        <div class="wrapper">
+            <header>
+                <h1>{{ .Site.Title }}</h1>
+
+                <!-- begin short bio -->
+                <p>{{ .Site.Params.shortbio }}</p>
+                <!-- end short bio -->
+
+                {{/*
+                <p class="contactinfo">
+                <img src="{{ "/icons/mail-symbol.svg" | relURL }}" class="octicons">
+                mailaddr@domain.edu
+                </p>
+                */}}
+
+                <hr/>
+
+                {{ partial "sidebar.html" . }} 
+
+                <!-- begin photo -->
+                {{ with .Site.Params.logo }}
+                <img src="{{ . | relURL }}" alt="Logo" />
+                {{ end }}
+                <!-- end photo -->
+
+            </header>
