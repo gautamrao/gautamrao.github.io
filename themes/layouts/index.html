@@ -54,6 +54,21 @@
 {{ end }}
 {{ end }}
 
+
+{{ with .Site.Data.other_publications }}
+<hr>
+<h2 id="otherpublications">Other Publications</h2>
+{{ range . }}
+{{ range .works }}
+{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+{{ $scratch.Add "pubcnt" 1 }}   
+{{ end }}
+{{ end }}
+{{ end }}
+
+
+
+
 {{ with .GetPage "/sections/op.md" }}
 <hr>
 <h2 id="personal">Other Publications</h2>
