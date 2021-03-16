@@ -9,19 +9,19 @@ works:
       text: "Code"
     - url: ""
       text: "Conferences"
-      note: "AFA 2021 (Poster Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021 (Scheduled), Australasian Finance and Banking Conference (AFBC) 2020."
+      note: "AFA 2021 (Poster Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021 (Scheduled), Australasian Finance and Banking Conference (AFBC) 2020, The Econometric Society Meet 2021 (Asia) (Scheduled)."
   note: "Media Coverage: Oxford Business Law Blog, BeingBrief.in"
   abstract: >
       This paper examines whether similarity in social identities between a manager and the board affects executive compensation, firm value, and agency frictions. By using a novel dataset on surnames with multiple identities (native language, native place, and caste), developed by merging micro census data of 474 million Indians  with data from Linguistic Survey of India (LSI), I provide evidence that the firms with a shared group identity between a manager and the board do well compare to other firms. Due to in-group favoritism, managers of such firms earn higher compensation. These results are more substantial for group identity based on native language and native place. I also find that the firm benefits from taking on the cost of in-group favoritism as it reduces the agency frictions and increases firm value in the long run. These results are robust to the endogeneity test, managerial influence on firm,  college ties, ties from past employment, and various other checks.
 
 - title: "Are carbon emissions associated with stock returns?"
-  pdflink: ""
+  pdflink: "/pdf/carbon_emissions_and_returns_Feb_2021.pdf"
   coauthors: "Shivaram Rajgopal and Aneesh Raghunandan"
   links:
    - url: ""
      text: "Seminars"
-     note: "Ohio State University (Scheduled)"
-  abstract: >
+     note: "Ohio State University, University of Sydney"
+  abstract: > Socially conscious investors are interested in assessing whether reducing firms’ carbon emissions can improve stock returns and operating performance. An influential emerging literature documents strong correlations between emissions and both stock returns and operating performance. We re-examine that data, using a sample of 2,729 U.S. firms from 2005-2019, and conclude that these associations are driven by a combination of three factors. First, unscaled raw emissions (in metric tons of CO2), the variable typically used in academic literature, is correlated with stock returns but emissions intensity (emissions scaled by firm size), a more commonly used measure in practice, is not. Second, stock returns are correlated only with unscaled emissions estimated by the vendor compiling emissions data, but not with unscaled emissions actually disclosed by individual firms; we show that vendor-estimated emissions exhibit systematic differences from firm-disclosed emissions. Third, the positive correlation between stock returns and raw emissions reflects industry clustering in that stock returns of firms in industries with high emission intensity (e.g., energy and mining) have lagged behind those of firms in industries with low emission intensity (e.g., technology). Along similar lines, the associations between emissions and operating performance disappear once we account for firm size, industry clustering and estimated versus disclosed emissions. Investors might want to be cautious about assuming that carbon emissions are priced by equity markets. To be clear, we say nothing about the desirability (or lack thereof) of disclosing and/or cutting carbon emissions.
   
 
 - title: "Cost of Conscious Capitalism"
