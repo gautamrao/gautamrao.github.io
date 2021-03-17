@@ -80,3 +80,14 @@ works:
   coauthors: "Jonas Hjort, Diana Moreira, and Juan Francisco Santini"
   abstract: >
     Can research findings change political leaders' beliefs and cause policy change? Collaborating with the National Confederation of Municipalities in Brazil, we work with 2,150 municipalities and their mayors. We use experiments to measure mayors' demand for research information and their response to learning research findings. In one experiment, we find that mayors and other municipal officials are personally willing to pay to learn the results of impact evaluations, and update their beliefs when informed of the findings. They value larger-sample studies more, while not distinguishing on average between studies conducted in rich and poor countries. In a second experiment, we find that informing mayors about research on a simple and effective policy (reminder letters for taxpayers) increases the probability that their municipality implements the policy by 10 percentage points. In sum, we provide direct evidence that policy-makers value research information, change their beliefs when presented with it, and that this can drive policy change. Information frictions may thus help explain  failures to adopt effective policies.
+
+- title: "The Economic Consequences of Increasing Sleep Among the Urban Poor"
+  pdflink: "/pdf/Sleep paper March 2021.pdf"
+  note: "Current Version: March 2021"
+  book: "Accepted, Quarterly Journal of Economics"
+  coauthors: "Pedro Bessone, Frank Schilbach, Heather Schofield and Mattie Toma"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/2494"
+      text: "Pre-Registration"
+  abstract: >
+    The urban poor in developing countries face challenging living environments, which may interfere with good sleep. Using actigraphy to measure sleep objectively, we find that low-income adults in Chennai, India sleep only 5.5 hours per night on average despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency—sleep per time in bed—comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes per night by inducing more time in bed. Contrary to expert predictions and a large body of sleep research, increased nighttime sleep had no detectable effects on cognition, productivity, decision-making, or well-being, and led to small decreases in labor supply. In contrast, short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognition, but a decrease in work time.
