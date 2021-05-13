@@ -5,4 +5,4 @@ My current research focuses on the interaction of behavioral and environmental e
 Areas of interest: Empirical Corporate Finance, Corporate Governance, Corporate Social Responsibility (CSR), Environmental, Social and Governance (ESG), and Behavioral Economics.
 
 
-Curriculum Vitae [[Short]]("/pdf/CV_13thMay_2021.pdf")[[Long]]("/pdf/Jeet_CV_latest.pdf")
+CV [[Short]]("/pdf/CV_13thMay_2021.pdf")[[Long]]("/pdf/Jeet_CV_latest.pdf")
