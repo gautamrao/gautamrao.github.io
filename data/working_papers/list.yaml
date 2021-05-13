@@ -20,7 +20,7 @@ works:
   links:
    - url: ""
      text: "Seminars"
-     note: "Ohio State University, University of Sydney"
+     note: "Ohio State University *, University of Sydney *"
    - url: ""
      text: "Conferences"
      note: "MIT Asia Conference in Accounting 2021 (Scheduled)"
@@ -35,7 +35,7 @@ works:
   book: "Submitted"
   links:
     - text: "Conferences"
-      note: "AFA 2021 (Poster Session), FMA 2019, MFA 2021 (Scheduled)."
+      note: "AFA 2021 (Poster Session) *, FMA 2019, MFA 2021."
   abstract: >
       Calls for conscious capitalism have spurred numerous innovations in firm governance. In this study, we assess whether there is a cost to investors for one such innovation—state-level constituency statutes that permit board members to consider the interests of all stakeholders—not just shareholders—when making decisions. As competing demands from stakeholders increase, we argue monitoring by boards will be hampered, resulting in reduced transparency to investors by managers. Using a sample of U.S. publicly traded firms (1981-2010), we observe significant decline in transparency by firms incorporated in states with such statutes. While we find firms experiencing losses use conscious capitalism as an umbrella to remain opaque, firms that need financial markets for capital remain transparent despite such statutes. Our paper contributes to the debate on the ‘objective of the firm’ by showing that adopting stakeholder governance without addressing its challenges may lead to managerial entrenchment and affect transparency negatively.
 
@@ -47,7 +47,7 @@ works:
   book: "Submitted"
   links:
     - text: "Conferences"
-      note: "MFA 2018, FMA 2018, Australasian Finance and Banking Conference (ABFC) 2018."
+      note: "MFA 2018, FMA 2018, Australasian Finance and Banking Conference (ABFC) 2018 *."
   note: "Media Coverage: Columbia Law School (CLS) Blue Sky Blog"
   abstract: >
       Do changes in the IPO regulatory environment affect private firms’ exit choices, bargaining abilities, and valuations? Using the JOBS Act as an exogenous shock to the exit decisions among private firms, we observe that their valuations as M&A targets increase after the Act, negatively affecting acquirer wealth gains. These results are more prominent for VC-backed targets. We also find that stock (cash) deals decrease (increase) for private firms after the Act. Our results are robust to endogeneity concerns, sampling bias, alternative measures, placebo tests, merger waves, and various other vigorous checks.
@@ -74,12 +74,13 @@ works:
     - text: "Research Grant"
       note: "NSE - NYU Stern research grant for studying Indian capital markets."
     - text: "Conferences"
-      note: "New York University (NYU) - National Stock Exchange (NSE) Conference 2018, Global PhD Colloquium 2019, FMA 2020."
+      note: "New York University (NYU) - National Stock Exchange (NSE) Conference 2018 *, Global PhD Colloquium 2019, FMA 2020."
   note: "Media Coverage: NSE White Paper Series"
   abstract: >
       This paper examines how debt markets price firms' Corporate Social Responsibility (CSR) activities, in a setting where it is  not a strategic choice but rather mandated by regulation. Using both a difference-in-difference and a regression discontinuity empirical specification, the paper reports that binding CSR rule increase yield-spreads on bonds by 22 basis points.  Firms with a business group affiliation show a reduction in yield spreads and state-owned companies an  increase in yield-spreads. The increase in yield-spreads is mitigated by good governance with well governed firms having lower yield-spreads. These findings add to the contribution of Manchiraju and Rajgopal (2017), which reports that such mandatory rules are detrimental to stockholders’ wealth.      
       
- 
+ ---------------------------------
+ * Presentation by co-author
       
    
   
