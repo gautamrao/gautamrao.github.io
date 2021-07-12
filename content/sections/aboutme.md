@@ -4,6 +4,6 @@ My current research focuses on the interaction of behavioral and environmental e
 
 Areas of interest: Empirical Corporate Finance, Corporate Governance, Corporate Social Responsibility (CSR), Environmental, Social and Governance (ESG), and Behavioral Economics.
 
-**I will be available for interviews at AFA Annual Meeting 2022 (Boston) and FMA Annual Meeting 2021 (Denver). 
+**I will be available for interviews at AFA Annual Meeting 2022 (Boston) and FMA Annual Meeting 2021 (Denver).**
 
 Curriculum vitae [(Short)](/pdf/CV_13thMay_2021.pdf") [(Long)](/pdf/Jeet_CV_latest.pdf")
