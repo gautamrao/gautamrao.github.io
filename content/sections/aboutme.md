@@ -6,4 +6,4 @@ Areas of interest: Empirical Corporate Finance, Corporate Governance, Corporate 
 
 **I will be available for interviews at AFA Annual Meeting 2022 (Boston) and FMA Annual Meeting 2021 (Denver).**
 
-Curriculum vitae [(Short)](/pdf/CV (Updated, Short).pdf") [(Long)](/pdf/CV (Updated, Long).pdf")
+Curriculum vitae [(Short)](/pdf/CV (Updated, Short).pdf") [(Long)](/pdf/CV (Updated, Long).pdf") (Updated: Aug, 2021)
