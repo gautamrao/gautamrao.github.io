@@ -91,7 +91,7 @@ works:
   abstract: >
     The urban poor in developing countries face challenging living environments, which may interfere with good sleep. Using actigraphy to measure sleep objectively, we find that low-income adults in Chennai, India sleep only 5.5 hours per night on average despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency—sleep per time in bed—comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes per night by inducing more time in bed. Contrary to expert predictions and a large body of sleep research, increased nighttime sleep had no detectable effects on cognition, productivity, decision-making, or well-being, and led to small decreases in labor supply. In contrast, short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognition, but a decrease in work time.
 
-- title: "Estimating Social Preferences and Gift Exchange at Work  - test change"
+- title: "Estimating Social Preferences and Gift Exchange at Work"
   pdflink: "/pdf/SocialPreferencesWorkAug25.pdf"
   coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
   note: "Current Version: August 2021"
@@ -111,3 +111,5 @@ works:
   links:
     - url: "https://www.science.org/doi/epdf/10.1126/science.abk2594"
       text: "Published Version"
+  abstract: >
+      Recent progress in sleep science has greatly improved our understanding of the neurobiology of sleep and its importance for physical and mental functioning. Lab experiments have shown that insufficient sleep causes declines in cognitive and physiological function, and community studies have documented widespread sleep deprivation. Adults in the US sleep just 6.1 hours per night when objectively measured, well below the 7 to 9 hours recommended by experts. Evidence is emerging that sleep duration and quality are even lower in developing countries and among the poor in rich countries. This has led to predictions that increased sleep would have profound benefits for society, including increased productivity, academic performance, health, and safety. Why do people not sleep more, given these predicted benefits?
