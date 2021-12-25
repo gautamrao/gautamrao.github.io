@@ -6,4 +6,4 @@ Research Interests: Corporate Governance, Behavioral Finance, Empirical Corporat
 
 [CV]("/pdf/CV.pdf") 
 
-[Github] ("https://github.com/aswanijeet1412")
+"[Github] (https://github.com/aswanijeet1412)"
