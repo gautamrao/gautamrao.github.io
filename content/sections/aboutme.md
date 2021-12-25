@@ -1,9 +1,9 @@
 I am a Ph.D. candidate at Gabelli School of Business, Fordham University.
 
-My current research focuses on the interaction of behavioral and environmental economics with finance.
+Research Interests: Corporate Governance, Behavioral Finance, Empirical Corporate Finance, ESG & CSR, and Debt Markets.
 
-Areas of interest: Empirical Corporate Finance, Corporate Governance, Corporate Social Responsibility (CSR), Environmental, Social and Governance (ESG), and Behavioral Economics.
+**I will be available for interviews at AFA Annual Meeting 2022.**
 
-**I will be available for interviews at AFA Annual Meeting 2022 (Boston) and FMA Annual Meeting 2021 (Denver).**
+Curriculum vitae [CV](/pdf/CV.pdf") 
 
-Curriculum vitae [(Short)](/pdf/CV (Updated, Short).pdf") [(Long)](/pdf/CV (Updated, Long).pdf") (Updated: Aug, 2021)
+[Github] (https://github.com/aswanijeet1412)
