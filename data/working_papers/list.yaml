@@ -13,7 +13,7 @@ works:
     - url: ""
       text: "Conferences"
       note: "AFA 2021 (Doctoral Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021, Australasian Finance and Banking Conference (AFBC) 2020, The Econometric Society Meet 2021 (Asia), The Econometric Society Meet 2021 (North America), NEUDC 2021 (Schduled)."
-  note: "Media Coverage: Oxford Business Law Blog, BeingBrief.in"
+  note: "Media Coverage: Oxford Business Law Blog, BeingBrief.in, World Bank Blog"
   abstract: >
       This paper examines whether similarity in social identities between a manager and the board affects executive compensation, firm value, and agency frictions. By using a novel dataset on surnames with multiple identities (native language, native place, and caste), developed by merging micro census data of 474 million Indians  with data from Linguistic Survey of India (LSI), I provide evidence that the firms with a shared group identity between a manager and the board do well compare to other firms. Due to in-group favoritism, managers of such firms earn higher compensation. These results are more substantial for group identity based on native language and native place. I also find that the firm benefits from taking on the cost of in-group favoritism as it reduces the agency frictions and increases firm value in the long run. These results are robust to the endogeneity test, managerial influence on firm,  college ties, ties from past employment, and various other checks.
 
@@ -45,7 +45,7 @@ works:
     This paper examines three aspects of corporate green bonds – 'how shareholders react to the announcement of green bonds issuance in different countries? 'which firms issue green bonds?', and 'who supports their issuance?' The stylized facts suggest that green bonds issuance is highly concentrated among few firms (and their subsidiaries) in the US and Europe but diversified in the Asian region. On analyzing the market reaction to the announcement of green bonds and alternate green bonds (-social bonds, sustainability bonds, and sustainability-linked bonds) in 19 countries, I find that shareholders are either neutral to the issuance of green bonds or consider it as greenwashing. I also find that firms with low environment scores, low ESG scores, high unscaled carbon emissions, and no target emissions issue more green bonds than others. The latter result supports the signaling hypothesis. Also, only domestic (and not foreign) institutional investors support the issuance of the green bonds, which implies the home-bias effect of domestic investors but the reluctance of foreign investors about this asset class. In sum, the paper suggests it is crucial to understand the intricacies in corporate green bonds issuance to correctly emulate stockholders' reaction, highlight the identity of green bond issuers, and know what kind of institutional investors support the issuance of the green bonds.
 
 
-- title: "Cost of Conscious Capitalism"
+- title: "Cost (and Unbenefit) of Conscious Capitalism"
   pdflink: "/pdf/Conscious_Capitalism_Oct_2020.pdf"
   coauthors: "Alona Bilokha, Mingying Cheng, and Benjamin Cole"
   note: "Current Version: October 2020"
@@ -53,6 +53,7 @@ works:
   links:
     - text: "Conferences"
       note: "AFA 2021 (Poster Session), FMA 2019, MFA 2021."
+  note: "Media Coverage: Columbia Law School (CLS) Blue Sky Blog, CalCorpLaw.com, The Active Investor Blog"
   abstract: >
       Calls for conscious capitalism have spurred numerous innovations in firm governance. In this study, we assess whether there is a cost to investors for one such innovation—state-level constituency statutes that permit board members to consider the interests of all stakeholders—not just shareholders—when making decisions. As competing demands from stakeholders increase, we argue monitoring by boards will be hampered, resulting in reduced transparency to investors by managers. Using a sample of U.S. publicly traded firms (1981-2010), we observe significant decline in transparency by firms incorporated in states with such statutes. While we find firms experiencing losses use conscious capitalism as an umbrella to remain opaque, firms that need financial markets for capital remain transparent despite such statutes. Our paper contributes to the debate on the ‘objective of the firm’ by showing that adopting stakeholder governance without addressing its challenges may lead to managerial entrenchment and affect transparency negatively.
 
