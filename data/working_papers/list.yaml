@@ -2,17 +2,17 @@ works:
 
 
 - title: "Group Identity and Agency Frictions: Evidence using Big Data"
-  pdflink: "/pdf/Group_identity_Jan_2020.pdf"
+  pdflink: "/pdf/Group_identity_dec_2021.pdf"
   note: "Current Version: December 2020"
   links:
-    - url: "/datacode/scraper_indiansurnames.zip"
+    - url: ""
       text: "Code"
     - url: ""
       text: "Seminars"
-      note: "Stevens Institute of Technology"
+      note: "Stevens Institute of Technology, University of North Texas"
     - url: ""
       text: "Conferences"
-      note: "AFA 2021 (Poster Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021, Australasian Finance and Banking Conference (AFBC) 2020, The Econometric Society Meet 2021 (Asia), The Econometric Society Meet 2021 (North America), NEUDC 2021 (Schduled)."
+      note: "AFA 2021 (Doctoral Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021, Australasian Finance and Banking Conference (AFBC) 2020, The Econometric Society Meet 2021 (Asia), The Econometric Society Meet 2021 (North America), NEUDC 2021 (Schduled)."
   note: "Media Coverage: Oxford Business Law Blog, BeingBrief.in"
   abstract: >
       This paper examines whether similarity in social identities between a manager and the board affects executive compensation, firm value, and agency frictions. By using a novel dataset on surnames with multiple identities (native language, native place, and caste), developed by merging micro census data of 474 million Indians  with data from Linguistic Survey of India (LSI), I provide evidence that the firms with a shared group identity between a manager and the board do well compare to other firms. Due to in-group favoritism, managers of such firms earn higher compensation. These results are more substantial for group identity based on native language and native place. I also find that the firm benefits from taking on the cost of in-group favoritism as it reduces the agency frictions and increases firm value in the long run. These results are robust to the endogeneity test, managerial influence on firm,  college ties, ties from past employment, and various other checks.
@@ -31,6 +31,19 @@ works:
      note: "MIT Asia Conference in Accounting 2021, Ph.D. Symposium at University of Texas (Austin), FMA 2021 (Scheduled)"
   abstract: > 
     An influential emerging literature, led by Bolton and Kacperczyk (2021a), documents strong correlations between unscaled raw emissions and both stock returns and operating performance. We re-examine that data, using a sample of 2,729 U.S. firms from 2005-2019, and conclude that the associations between unscaled emissions and both stock returns and operating performance disappear once we account for firm size, industry clustering of standard errors, and vendor-estimated versus firm-disclosed emissions, both in the U.S. sample and in Europe. Investors might want to be cautious about assuming that carbon emissions are priced by equity markets.  
+
+
+
+- title: "Three Aspects of Green Bonds"
+  pdflink: "/pdf/green_bonds_paper_dec_2021.pdf"
+  note: "Current Version: August 2021"
+  links:
+   - url: ""
+     text: "Conferences"
+     note: "AFA 2022 (Doctoral Session), The Econometric Society Meeting 2021 (Winter School), CMI Field Workshop 2021, FMA 2021 (Scheduled)"
+  abstract: > 
+    This paper examines three aspects of corporate green bonds – 'how shareholders react to the announcement of green bonds issuance in different countries? 'which firms issue green bonds?', and 'who supports their issuance?' The stylized facts suggest that green bonds issuance is highly concentrated among few firms (and their subsidiaries) in the US and Europe but diversified in the Asian region. On analyzing the market reaction to the announcement of green bonds and alternate green bonds (-social bonds, sustainability bonds, and sustainability-linked bonds) in 19 countries, I find that shareholders are either neutral to the issuance of green bonds or consider it as greenwashing. I also find that firms with low environment scores, low ESG scores, high unscaled carbon emissions, and no target emissions issue more green bonds than others. The latter result supports the signaling hypothesis. Also, only domestic (and not foreign) institutional investors support the issuance of the green bonds, which implies the home-bias effect of domestic investors but the reluctance of foreign investors about this asset class. In sum, the paper suggests it is crucial to understand the intricacies in corporate green bonds issuance to correctly emulate stockholders' reaction, highlight the identity of green bond issuers, and know what kind of institutional investors support the issuance of the green bonds.
+
 
 - title: "Cost of Conscious Capitalism"
   pdflink: "/pdf/Conscious_Capitalism_Oct_2020.pdf"
@@ -58,7 +71,7 @@ works:
       
 
 - title: "Tournament Culture and Corporate Misconduct: Evidence using Machine Learning"
-  pdflink: "/pdf/Culture_Nov_2020.pdf"
+  pdflink: "/pdf/Culture_Dec_2021.pdf"
   coauthors: "Franco Fiordelisi"
   note: "Current Version: November 2020"
   book: "Submitted"
