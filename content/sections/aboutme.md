@@ -4,7 +4,7 @@ Research Interests: Corporate Governance, Behavioral Finance, Empirical Corporat
 
 **I will be available for interviews at AFA Annual Meeting 2022.**
 
-[CV]("/pdf/CV.pdf") 
+[CV](/pdf/CV.pdf) 
 
 [Github](https://github.com/aswanijeet1412)
 
