@@ -28,14 +28,14 @@ works:
      note: "Ohio State University, University of Sydney, Monash University"
    - url: ""
      text: "Conferences"
-     note: "MIT Asia Conference in Accounting 2021, Ph.D. Symposium at University of Texas (Austin), FMA 2021 (Scheduled)"
+     note: "MIT Asia Conference in Accounting 2021, Ph.D. Symposium at University of Texas (Austin), FMA 2021, SFS Cavalcade North America 2022 (Scheduled)"
   abstract: > 
     An influential emerging literature, led by Bolton and Kacperczyk (2021a), documents strong correlations between unscaled raw emissions and both stock returns and operating performance. We re-examine that data, using a sample of 2,729 U.S. firms from 2005-2019, and conclude that the associations between unscaled emissions and both stock returns and operating performance disappear once we account for firm size, industry clustering of standard errors, and vendor-estimated versus firm-disclosed emissions, both in the U.S. sample and in Europe. Investors might want to be cautious about assuming that carbon emissions are priced by equity markets.  
 
 
 
 - title: "Three Aspects of Green Bonds"
-  pdflink: "/pdf/green_bonds_paper_dec_2021.pdf"
+  pdflink: "/pdf/green_bonds_paper_dec_202.pdf"
   note: "Current Version: August 2021"
   links:
    - url: ""
