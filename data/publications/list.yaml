@@ -55,18 +55,7 @@ works:
       text: "Slides (tex and bib files)"
     - url: "/pdf/Kremer et al - Behavioral Development Economics - 2019-03-07.pptx"
       text: "Slides (ppt)"
-      
-- title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
-  pdflink: "/pdf/Bai_Self_Control_2020-02-16-gr.pdf"
-  book: "Review of Economics and Statistics, Dec 2021"
-  coauthors: "Liang Bai, Benjamin Handel and Ted Miguel"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/62"
-      text: "Pre-Registration"
-      note: "Including theoretical model and pre-analysis plan"
-  abstract: >
-    Self-control problems constitute a potential explanation for the under-investment in preventive health in low-income countries. Behavioral economics offers a tool to solve such problems: commitment devices. We conduct a field experiment to evaluate the effectiveness of different types of theoretically-motivated commitment contracts in increasing preventive doctor visits by hypertensive patients in rural India. Despite achieving high take-up of such contracts in some treatment arms, we find no effects on actual doctor visits or individual health outcomes. A substantial number of individuals pay for commitment but fail to follow through on the doctor visit, losing money without experiencing health benefits. We develop and structurally estimate a pre-specified model of consumer behavior under present bias with varying levels of naivete. The results are consistent with a large share of individuals being partially naive about their own self-control problems: sophisticated enough to demand some commitment, but overly optimistic about whether a given level of commitment is sufficiently strong to be effective. The results suggest that commitment devices may in practice be welfare diminishing, at least in some contexts, and serve as a cautionary tale about their role in health care.
-    
+          
 - title: "Poverty, Depression and Anxiety: Causal Evidence and Mechanisms"
   pdflink: "/pdf/Ridley et al - Poverty Depression and Anxiety.pdf"
   book: "Science, December 2020"
@@ -91,6 +80,28 @@ works:
   abstract: >
     The urban poor in developing countries face challenging living environments, which may interfere with good sleep. Using actigraphy to measure sleep objectively, we find that low-income adults in Chennai, India sleep only 5.5 hours per night on average despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency—sleep per time in bed—comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes per night by inducing more time in bed. Contrary to expert predictions and a large body of sleep research, increased nighttime sleep had no detectable effects on cognition, productivity, decision-making, or well-being, and led to small decreases in labor supply. In contrast, short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognition, but a decrease in work time.
 
+- title: "Informing Sleep Policy through Field Experiments"
+  pdflink: "https://www.science.org/doi/epdf/10.1126/science.abk2594"
+  coauthors: "Susan Redfield, Frank Schilbach, Heather Schofield and Frank Schilbach"
+  book: "Science, October 2021"
+  note: "This is a peer-reviewed policy forum article in Science"
+  links:
+    - url: "https://www.science.org/doi/epdf/10.1126/science.abk2594"
+      text: "Published Version"
+  abstract: >
+      Recent progress in sleep science has greatly improved our understanding of the neurobiology of sleep and its importance for physical and mental functioning. Lab experiments have shown that insufficient sleep causes declines in cognitive and physiological function, and community studies have documented widespread sleep deprivation. Adults in the US sleep just 6.1 hours per night when objectively measured, well below the 7 to 9 hours recommended by experts. Evidence is emerging that sleep duration and quality are even lower in developing countries and among the poor in rich countries. This has led to predictions that increased sleep would have profound benefits for society, including increased productivity, academic performance, health, and safety. Why do people not sleep more, given these predicted benefits?
+
+- title: "Self-Control and Demand for Preventive Health: Evidence from Hypertension in India"
+  pdflink: "/pdf/Bai_Self_Control_2020-02-16-gr.pdf"
+  book: "Review of Economics and Statistics, Dec 2021"
+  coauthors: "Liang Bai, Benjamin Handel and Ted Miguel"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/62"
+      text: "Pre-Registration"
+      note: "Including theoretical model and pre-analysis plan"
+  abstract: >
+    Self-control problems constitute a potential explanation for the under-investment in preventive health in low-income countries. Behavioral economics offers a tool to solve such problems: commitment devices. We conduct a field experiment to evaluate the effectiveness of different types of theoretically-motivated commitment contracts in increasing preventive doctor visits by hypertensive patients in rural India. Despite achieving high take-up of such contracts in some treatment arms, we find no effects on actual doctor visits or individual health outcomes. A substantial number of individuals pay for commitment but fail to follow through on the doctor visit, losing money without experiencing health benefits. We develop and structurally estimate a pre-specified model of consumer behavior under present bias with varying levels of naivete. The results are consistent with a large share of individuals being partially naive about their own self-control problems: sophisticated enough to demand some commitment, but overly optimistic about whether a given level of commitment is sufficiently strong to be effective. The results suggest that commitment devices may in practice be welfare diminishing, at least in some contexts, and serve as a cautionary tale about their role in health care.
+
 - title: "Estimating Social Preferences and Gift Exchange at Work"
   pdflink: "/pdf/SocialPreferencesWorkAug25.pdf"
   coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
@@ -103,13 +114,3 @@ works:
   abstract: >
       We design three field experiments to estimate the nature and magnitude of workers’ social preferences towards their employers. The experiments vary the return to the employer and employer generosity towards workers (“gifts”). Including variation in pay rates—either piece rates or wage rates—allows us to estimate the elasticity of work outcomes and benchmark the workers' social preferences toward the employer. The first experiment measures productivity—units of output produced in a fixed amount of time. The second and third experiments measure the willingness to do extra work. We document that productivity is rather unresponsive to financial incentives, while the willingness to perform extra work is very responsive. In terms of social preferences, we document, first, that workers exert effort for their employer even in the absence of private incentives, but are insensitive to the return to the employer. This result is consistent with models of warm glow or social norms regarding work effort, but not pure altruism towards the employer. Second, while we do not detect any effect of the gifts in the productivity experiment, we find moderate positive impacts in the extra-work experiments. We show that this difference is partly explained by the disparate elasticities of productivity and extra work.
   
-- title: "Informing Sleep Policy through Field Experiments"
-  pdflink: "https://www.science.org/doi/epdf/10.1126/science.abk2594"
-  coauthors: "Susan Redfield, Frank Schilbach, Heather Schofield and Frank Schilbach"
-  book: "Science, October 2021"
-  note: "This is a peer-reviewed policy forum article in Science"
-  links:
-    - url: "https://www.science.org/doi/epdf/10.1126/science.abk2594"
-      text: "Published Version"
-  abstract: >
-      Recent progress in sleep science has greatly improved our understanding of the neurobiology of sleep and its importance for physical and mental functioning. Lab experiments have shown that insufficient sleep causes declines in cognitive and physiological function, and community studies have documented widespread sleep deprivation. Adults in the US sleep just 6.1 hours per night when objectively measured, well below the 7 to 9 hours recommended by experts. Evidence is emerging that sleep duration and quality are even lower in developing countries and among the poor in rich countries. This has led to predictions that increased sleep would have profound benefits for society, including increased productivity, academic performance, health, and safety. Why do people not sleep more, given these predicted benefits?
