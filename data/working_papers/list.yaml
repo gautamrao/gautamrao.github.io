@@ -1,16 +1,26 @@
 works:
 
-
-- title: "Learning in the Household"
-  pdflink: "/pdf/Learning in the Household.pdf"
+- title: "Failing to Learn from Others"
+  pdflink: "/pdf/Failing to Learn from Others.pdf"
   coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  book: "Revise and Resubmit, Econometrica"
-  note: "Current Version: May 2021"
+  book: "Revised and Resubmitted, Econometrica"
+  note: "Current Version: July 2022"
   links:
     - url: "https://www.socialscienceregistry.org/trials/4253"
       text: "Pre-Registration"
   abstract: >
-      We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their `own' and their husband's information the same. In sharp contrast, men's beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife's signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, \textit{both} men and women heavily discount their teammate's information relative to their own. We conclude that people have a  tendency to underweight others' information relative to their own. The marital context creates a countervailing force for women, resulting in a gender difference in learning (only)  in the household.
+      We provide evidence of a powerful barrier to social learning: people are much less sensitive to information others discover compared to equally-relevant information they discover themselves. In a series of incentivized lab experiments, we ask participants to guess the color composition of balls in an urn after drawing balls with replacement. Participants' guesses are substantially less sensitive to draws made by another player compared to draws made themselves. This result holds when others' signals must be learned through discussion, when they are perfectly communicated by the experimenter, and even when participants see their teammate drawing balls from the urn with their own eyes. We find a crucial role for  taking some action to generate one's `own' information, and rule out distrust, confusion, errors in probabilistic thinking, up-front inattention and imperfect recall as channels.
+
+- title: "Learning in the Household"
+  pdflink: "/pdf/Learning in the Household.pdf"
+  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
+  note: "Current Version: May 2021"
+  note: "Note: New version coming soon"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/4253"
+      text: "Pre-Registration"
+  abstract: >
+      We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their `own' and their husband's information the same. In sharp contrast, men's beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife's signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, \textit{both} men and women heavily discount their teammate's information relative to their own. We conclude that men and women do not differ in their general tendency to be underweight information coming from others, but the marital context creates a countervailing force for women, resulting in a gender difference in learning (only)  in the household.
 
 
 - title: "The Long-Run Effects of Psychotherapy on Depression, Beliefs, and Economic Outcomes"
