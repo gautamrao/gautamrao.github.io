@@ -2,7 +2,7 @@
 
 Research Interests: Corporate Governance, Behavioral Finance, Empirical Corporate Finance, ESG & CSR, and Debt Markets.
 
-[CV](/pdf/CV.pdf) 
+[CV](/pdf/CV_July2022.pdf) 
 
 [Github](https://github.com/aswanijeet1412)
 
