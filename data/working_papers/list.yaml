@@ -1,10 +1,10 @@
 works:
 
-- title: "Failing to Learn from Others"
-  pdflink: "/pdf/Failing to Learn from Others.pdf"
+- title: "Not Learning from Others"
+  pdflink: "/pdf/Not Learning from Others.pdf"
   coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
   book: "Revised and Resubmitted, Econometrica"
-  note: "Current Version: July 2022"
+  note: "Current Version: October 2022"
   links:
     - url: "https://www.socialscienceregistry.org/trials/4253"
       text: "Pre-Registration"
@@ -22,7 +22,7 @@ works:
 - title: "Learning in the Household"
   pdflink: "/pdf/Learning in the Household.pdf"
   coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  note: "New Version: August 2022"
+  note: "New Version: October 2022"
   links:
     - url: "https://www.socialscienceregistry.org/trials/4253"
       text: "Pre-Registration"
