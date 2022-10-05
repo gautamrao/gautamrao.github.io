@@ -5,8 +5,8 @@ works:
   pdflink: "/pdf/Group_identity_dec_2021.pdf"
   note: ""
   links:
-    - url: ""
-      text: "Code"
+    - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FBEYXT8&version=DRAFT"
+      text: "R Code"
     - url: ""
       text: "Seminars"
       note: "Stevens Institute of Technology, University of North Texas, University of Nottingham"
@@ -62,7 +62,7 @@ works:
       Calls for conscious capitalism have spurred numerous innovations in firm governance. In this study, we assess whether there is a cost to investors for one such innovation—state-level constituency statutes that permit board members to consider the interests of all stakeholders—not just shareholders—when making decisions. As competing demands from stakeholders increase, we argue monitoring by boards will be hampered, resulting in reduced transparency to investors by managers. Using a sample of U.S. publicly traded firms (1981-2010), we observe significant decline in transparency by firms incorporated in states with such statutes. While we find firms experiencing losses use conscious capitalism as an umbrella to remain opaque, firms that need financial markets for capital remain transparent despite such statutes. Our paper contributes to the debate on the ‘objective of the firm’ by showing that adopting stakeholder governance without addressing its challenges may lead to managerial entrenchment and affect transparency negatively.
 
 
-- title: "Impact of JOBS Act on M&As"
+- title: "Impact of JOBS Act on M&As" (Permanent Working Paper)
   pdflink: "/pdf/Jobs_act_July_2020.pdf"
   coauthors: "Sudip Gupta, Iftekhar Hasan, and Anthony Saunders"
   note: "Current Version: July 2020"
@@ -88,10 +88,9 @@ works:
       This paper examines the type of firm culture which leads to corporate misconduct activities. Using the management's tone in the 10-K report as a proxy for culture,  we find that higher internal “compete” culture (or tournament culture) increases  corporate misconduct activities such as restatements, earnings management, and accounting fraud by increasing the firm risk.The results are robust to external validity tests, firm-specific systematic risk, market competition, governance characteristics, CEO effects, and endogeneity concerns. 
 
  
-- title: "How do Debt Markets React to Mandatory CSR? : Evidence using Indian Companies Act 2013"
-  pdflink: "/pdf/CSR_debt_Dec_2020.pdf"
-  coauthors: "Iftekhar Hasan and N.K. Chidambaran"
-  note: "Current Version: December 2020"
+- title: "Debt Markets Retort to Mandatory Corporate Social Responsbility"
+  pdflink: ""
+  note: "Current Version: October 2022"
   links:
     - text: "Research Grant"
       note: "NSE - NYU Stern research grant for studying Indian capital markets."
@@ -99,7 +98,7 @@ works:
       note: "New York University (NYU) - National Stock Exchange (NSE) Conference 2018, Global PhD Colloquium 2019, FMA 2020."
   note: "Media Coverage: NSE White Paper Series"
   abstract: >
-      This paper examines how debt markets price firms' Corporate Social Responsibility (CSR) activities, in a setting where it is  not a strategic choice but rather mandated by regulation. Using both a difference-in-difference and a regression discontinuity empirical specification, the paper reports that binding CSR rule increase yield-spreads on bonds by 22 basis points.  Firms with a business group affiliation show a reduction in yield spreads and state-owned companies an  increase in yield-spreads. The increase in yield-spreads is mitigated by good governance with well governed firms having lower yield-spreads. These findings add to the contribution of Manchiraju and Rajgopal (2017), which reports that such mandatory rules are detrimental to stockholders’ wealth.      
+       How do debt markets respond to mandatory corporate social responsibility (CSR)? Using the mandatory CSR rule under the Indian Companies Act 2013 as an identification design, I find that the yield spread increases by 103 basis points for affected firms compared to others. As a result, these firms reduce the issuance amount. Using a structural framework, I show that mandatory CSR diminishes a firm’s free cash flow, which causes the cost of debt to increase. The increased spread shrinks for firms with good governance, business group-affiliated firms, and firms that disclose information on non-government organizations used for dispensing CSR funds. 
       
 
    
