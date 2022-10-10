@@ -9,3 +9,5 @@ Research Interests: Corporate Governance, Behavioral Finance, Empirical Corporat
 [Github](https://github.com/aswanijeet1412)
 
 [LinkedIn](https://www.linkedin.com/in/jitendra-aswani-72800216/)
+
+Note: I have no connection with Iftekhar Hasan.
