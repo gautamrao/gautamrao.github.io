@@ -1,5 +1,4 @@
 __Email__: [grao@fas.harvard.edu](grao@fas.harvard.edu)  
-__Tel__: +1 (857) 998-4505  
 __Address__:  
 Department of Economics  
 Littauer Center M-30, Harvard University  
