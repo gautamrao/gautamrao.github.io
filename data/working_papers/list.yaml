@@ -48,6 +48,61 @@ works:
     The theory of sustainable investing proposes that investors are willing to take lower returns because they relish holding green assets, which hedge climate risk by encouraging pro-environmental outcomes. We tested this proposition using a sample of 2,564 green bonds obtained from the Bloomberg Fixed Income database as of December 31, 2020. In the process, we questioned whether (i) green bond investors earn smaller yields, (ii) equity investors react positively to the issuance of green bonds, and (iii) green bonds are associated with reduced carbon emissions. Contrary to the previous work that suffers from sample composition biases, we found that the stock market reaction to the announcement of green bonds is statistically insignificant and that the positive U.S. market reaction reported in previous papers was mainly due to Tesla’s green bonds. In the secondary bond market, green bonds have a lower yield of negative 32 basis points relative to a propensity score-matched sample, a finding primarily attributable to the green bonds issued by the financial sector. Green bonds issued by four polluting sectors – the energy, industrial, material, and utility sectors – are associated with relatively higher yields in the secondary market, while we would have expected investors in such sectors to provide the operators with incentives to improve their environmental footprint. The emissions for issuers of green bonds do not fall even after four years following issuance. Our work raises questions regarding the value of green bonds for both investors and the environment. 
     
     
+- title: "Cost (and Unbenefit) of Conscious Capitalism"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926335"
+  coauthors: "Alona Bilokha, Mingying Cheng, and Benjamin Cole"
+  note: ""
+  
+  links:
+    - url: ""
+    - text: "Conferences"
+      note: "AFA 2021 (Doctoral Session), FMA 2019, MFA 2021."
+  note: "Media Coverage: Columbia Law School (CLS) Blue Sky Blog, CalCorpLaw.com, The Active Investor Blog"
+  abstract: >
+      Calls for conscious capitalism have spurred numerous innovations in firm governance. In this study, we assess whether there is a cost to investors for one such innovation—state-level constituency statutes that permit board members to consider the interests of all stakeholders—not just shareholders—when making decisions. As competing demands from stakeholders increase, we argue monitoring by boards will be hampered, resulting in reduced transparency to investors by managers. Using a sample of U.S. publicly traded firms (1981-2010), we observe significant decline in transparency by firms incorporated in states with such statutes. While we find firms experiencing losses use conscious capitalism as an umbrella to remain opaque, firms that need financial markets for capital remain transparent despite such statutes. Our paper contributes to the debate on the ‘objective of the firm’ by showing that adopting stakeholder governance without addressing its challenges may lead to managerial entrenchment and affect transparency negatively.
+
+
+- title: "Impact of JOBS Act on M&As (Permanent Working Paper)"
+  pdflink: "/pdf/Jobs_act_July_2020.pdf"
+  coauthors: "Sudip Gupta, Iftekhar Hasan, and Anthony Saunders"
+  note: ""
+  links:
+    - url: ""
+    - text: "Conferences"
+      note: "MFA 2018, FMA 2018, Australasian Finance and Banking Conference (ABFC) 2018."
+  note: "Media Coverage: Columbia Law School (CLS) Blue Sky Blog"
+  abstract: >
+      Do changes in the IPO regulatory environment affect private firms’ exit choices, bargaining abilities, and valuations? Using the JOBS Act as an exogenous shock to the exit decisions among private firms, we observe that their valuations as M&A targets increase after the Act, negatively affecting acquirer wealth gains. These results are more prominent for VC-backed targets. We also find that stock (cash) deals decrease (increase) for private firms after the Act. Our results are robust to endogeneity concerns, sampling bias, alternative measures, placebo tests, merger waves, and various other vigorous checks.
+      
+
+- title: "Tournament Culture and Corporate Misconduct: Evidence using Machine Learning"
+  pdflink: "/pdf/Culture_Dec_2021.pdf"
+  coauthors: ""
+  note: ""
+  links:
+    - url: ""
+    - text: "Conferences"
+      note: "FMA 2020, Financial Research Group (FRG) Field Workshop 2020, African Meeting of the Econometric Society 2022"
+  note: "Media Coverage: Oxford Business Law Blog"
+  abstract: >
+      This paper examines the type of firm culture which leads to corporate misconduct activities. Using the management's tone in the 10-K report as a proxy for culture,  we find that higher internal “compete” culture (or tournament culture) increases  corporate misconduct activities such as restatements, earnings management, and accounting fraud by increasing the firm risk.The results are robust to external validity tests, firm-specific systematic risk, market competition, governance characteristics, CEO effects, and endogeneity concerns. 
+
+ 
+- title: "Debt Markets Retort to Mandatory Corporate Social Responsbility"
+  pdflink: "https://github.com/aswanijeet1412/jitendraaswani.com/blob/source/static/pdf/csr_2022.pdf"
+  coauthors: ""
+  note: "Current Version: November 2022"
+  links:
+    - url: ""
+    - text: "Research Grant"
+      note: "NSE - NYU Stern research grant for studying Indian capital markets."
+    - url: ""
+    - text: "Conferences"
+      note: "New York University (NYU) - National Stock Exchange (NSE) Conference 2018, Global PhD Colloquium 2019, FMA 2020."
+  note: "Media Coverage: NSE White Paper Series"
+  abstract: >
+       How do debt markets respond to mandatory corporate social responsibility (CSR)? Using the mandatory CSR rule under the Indian Companies Act 2013 as an identification design, I find that the yield spread increases by 103 basis points for affected firms compared to others. As a result, these firms reduce the issuance amount. Using a structural framework, I show that mandatory CSR diminishes a firm’s free cash flow, which causes the cost of debt to increase. The increased spread shrinks for firms with good governance, business group-affiliated firms, and firms that disclose information on non-government organizations used for dispensing CSR funds. 
+      
 
 
    
