@@ -4,6 +4,6 @@ My research tries to bring insights from psychology to bear on topics in economi
 
 Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). From 2018 to 2020, I served as an Associate Editor at the Journal of Political Economy.
 
-__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated August 2022)
+__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated March 2023)
 
-__[Research Statement](/pdf/Rao Research Statement.pdf")__ (Updated August 2022)
+__[Research Statement](/pdf/Rao Research Statement.pdf")__ 
