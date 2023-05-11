@@ -1,4 +1,6 @@
-**Post-Doctoral Researcher, Harvard University (Program on Corporate Governance, Aug 2022-); Ph.D. (Finance).**
+**Post-Doctoral Fellow, Harvard University (Aug 2022-); Ph.D. (Finance).**
+
+Affiliation: **Program on Corporate Governance, Harvard Law School, Harvard University.**
 
 Research Interests: **Corporate Governance, Corporate Finance, Sustainable Finance, Behavioral Finance, and Debt Markets.**
 
