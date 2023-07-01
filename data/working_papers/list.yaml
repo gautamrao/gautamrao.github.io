@@ -40,7 +40,7 @@ works:
   links:
    - url: ""
      text: "Seminars"
-     note: "Citi Bank, HBS (Finance, FECS), U.S. Securiies and Exchange Commission (SEC) "
+     note: "Citi Bank, HBS (Finance, FECS), U.S. Securities and Exchange Commission (SEC) "
    - url: ""
      text: "Conferences"
      note: "AFA 2022 (Doctoral Session), The Econometric Society Meeting 2021 (Winter School), CMI Field Workshop 2021, FMA 2021, Asian Meeting of the Econometric Society 2022 (CUHK, Shenzhen), FMCG 2023."
@@ -68,7 +68,7 @@ works:
 
 - title: "Impact of JOBS Act on M&As (Permanent Working Paper)"
   pdflink: "/pdf/Jobs_act_July_2020.pdf"
-  coauthors: "Sudip Gupta, **Iftekhar Hasan**, and Anthony Saunders"
+  coauthors: "Sudip Gupta, Iftekhar Hasan, and Anthony Saunders"
   note: ""
   links:
     - url: ""
