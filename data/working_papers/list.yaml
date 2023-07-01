@@ -12,7 +12,7 @@ works:
       note: "Stevens Institute of Technology, University of North Texas, University of Nottingham, Harvard Business School (Finance), Harvard Econ Dept"
     - url: ""
       text: "Conferences"
-      note: "AFA 2021 (Doctoral Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021, Australasian Finance and Banking Conference (AFBC) 2020, The Econometric Society Meet 2021 (Asia), The Econometric Society Meet 2021 (North America), NEUDC 2021, FMA 2022."
+      note: "AFA 2021 (Doctoral Session), FMA 2020 (Ph.D. Consortium, Proposal), Royal Economic Society (RES) Annual Meeting 2021, Australasian Finance and Banking Conference (AFBC) 2020, The Econometric Society Meet 2021 (Asia), The Econometric Society Meet 2021 (North America), NEUDC 2021, FMA 2022, AFA 2023 (Scheduled)."
   note: "Media Coverage: Oxford Business Law Blog, BeingBrief.in, World Bank Blog"
   abstract: >
       This paper examines whether similarity in social identities between a manager and the board affects executive compensation, firm value, and agency frictions. By using a novel dataset on surnames with multiple identities (native language, native place, and caste), developed by merging micro census data of 474 million Indians  with data from Linguistic Survey of India (LSI), I provide evidence that the firms with a shared group identity between a manager and the board do well compare to other firms. Due to in-group favoritism, managers of such firms earn higher compensation. These results are more substantial for group identity based on native language and native place. I also find that the firm benefits from taking on the cost of in-group favoritism as it reduces the agency frictions and increases firm value in the long run. These results are robust to the endogeneity test, managerial influence on firm,  college ties, ties from past employment, and various other checks.
@@ -36,7 +36,7 @@ works:
 - title: "Rethinking the Value and Emission Implications of Green Bonds"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4215882"
   coauthors: "Shivaram Rajgopal"
-  note: "New Draft Soon"
+  note: "Revise and Resubmit (R&R)"
   links:
    - url: ""
      text: "Seminars"
@@ -92,10 +92,10 @@ works:
       This paper examines the type of firm culture which leads to corporate misconduct activities. Using the management's tone in the 10-K report as a proxy for culture,  we find that higher internal “compete” culture (or tournament culture) increases  corporate misconduct activities such as restatements, earnings management, and accounting fraud by increasing the firm risk.The results are robust to external validity tests, firm-specific systematic risk, market competition, governance characteristics, CEO effects, and endogeneity concerns. 
 
  
-- title: "Debt Markets Retort to Mandatory Corporate Social Responsbility"
+- title: "Debt Markets Retort to Mandatory Corporate Social Responsibility"
   pdflink: "https://github.com/aswanijeet1412/jitendraaswani.com/blob/source/static/pdf/csr_2022.pdf"
   coauthors: ""
-  note: "New Draft Soon"
+  note: "Submitted"
   links:
     - url: ""
     - text: "Research Grant"
