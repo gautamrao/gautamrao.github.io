@@ -6,6 +6,6 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Harvard University"
+    shortbio = ""
     logo = "jeetprofilepic2.jpg" 
     
