@@ -40,7 +40,7 @@ works:
   links:
    - url: ""
      text: "Seminars"
-     note: "Citi Bank, HBS (Finance, FECS), U.S. Securities and Exchange Commission (SEC) "
+     note: "Citi Bank, HBS (Finance, FECS), U.S. Securities and Exchange Commission (SEC), National Stock Exchange of India (NSE), Securitites Exchange Board of India (SEBI), CAFRAL (Reserve Bank of India), Indian School of Business (ISB)"
    - url: ""
      text: "Conferences"
      note: "AFA 2022 (Doctoral Session), The Econometric Society Meeting 2021 (Winter School), CMI Field Workshop 2021, FMA 2021, Asian Meeting of the Econometric Society 2022 (CUHK, Shenzhen), FMCG 2023."
@@ -97,6 +97,9 @@ works:
   coauthors: ""
   note: "Submitted"
   links:
+    - url: ""
+      text: "Seminars"
+      note: " National Stock Exchange of India (NSE), Securitites Exchange Board of India (SEBI)"
     - url: ""
     - text: "Research Grant"
       note: "NSE - NYU Stern research grant for studying Indian capital markets."
