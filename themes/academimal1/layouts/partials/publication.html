@@ -1,8 +1,4 @@
-<h3 style="margin:20px 0 5px;">
-    <a href="{{ . }}" target="_blank">
-    {{ .context.title }}</a>
-  
-</h3>
+{{ .context.title }}<h3 style="margin:20px 0 5px;"><a href="{{ . }}" target="_blank"></a></h3>
 
 {{ with .context.coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
 
