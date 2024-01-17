@@ -1,6 +1,6 @@
 relativeURLs = true
 title = "Jitendra Aswani"
-theme = "academimal @ acf9ebb"
+theme = "academimal1"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
