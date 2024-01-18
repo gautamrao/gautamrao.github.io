@@ -1,4 +1,4 @@
-I am currently an Associate Professor at the [Department of Economics](http://economics.harvard.edu/) at Harvard University. Starting in 2024, I will be an Associate Professor of Economics at the [Haas School of Business](https://haas.berkeley.edu/) and the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley.
+I am an Associate Professor (with tenure) at the [Haas School of Business](https://haas.berkeley.edu/) and the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley.
 
 My research brings insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. My current research agenda is centered on the economics of mental health in developing countries. Past projects include studying how improving sleep affects the economic outcomes of workers in India, how the endowment effect influences consumer demand for collateralized loans in Kenya, how research findings affect the beliefs and policy choices of mayors in Brazil, and how mixing rich and poor students in schools in India affects social preferences and behaviors.
 
