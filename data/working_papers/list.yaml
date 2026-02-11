@@ -3,14 +3,13 @@ works:
 - title: "Not Learning from Others"
   pdflink: "/pdf/Not Learning from Others.pdf"
   coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  book: "Revised and Resubmitted, Econometrica"
-  note: "Current Version: October 2022"
+  book: "Conditionally Accepted, Journal of Political Economy"
+  note: "Current Version: Dec 2025"
   links:
     - url: "https://www.socialscienceregistry.org/trials/4253"
       text: "Pre-Registration"
   abstract: >
-      We provide evidence of a powerful barrier to social learning: people are much less sensitive to information others discover compared to equally-relevant information they discover themselves. In a series of incentivized lab experiments, we ask participants to guess the color composition of balls in an urn after drawing balls with replacement. Participants' guesses are substantially less sensitive to draws made by another player compared to draws made themselves. This result holds when others' signals must be learned through discussion, when they are perfectly communicated by the experimenter, and even when participants see their teammate drawing balls from the urn with their own eyes. We find a crucial role for  taking some action to generate one's `own' information, and rule out distrust, confusion, errors in probabilistic thinking, up-front inattention and imperfect recall as channels.
-
+      We study social learning using experiments where two people independently learn relevant information and can share their information to make accurate private decisions. Across three experiments, people are substantially less sensitive to information others discover than to equally-relevant information they discovered themselves. This holds when they must learn information from others through discussion; when the experimenter perfectly communicates the information; and even when participants observe others’ information with their own eyes. Thus, our results stem not from a failure to elicit information from others but a systematic tendency to underweight it relative to one’s own information. Our findings illustrate a powerful barrier to social learning that might underlie many documented cases of failure to learn from others.
 - title: "The Endowment Effect and Collateralized Loans"
   pdflink: "/pdf/Rao_Endowment_Effect_Collateralized_Loans.pdf"
   coauthors: "Kevin Carney, Michael Kremer and Xinyue Lin"
