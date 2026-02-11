@@ -1,15 +1,26 @@
 works:
 
+- title: "Financial Incentives, Health Screening, and Selection into Mental Health Care: Experimental Evidence from College Students in India"
+  pdflink: "/pdf/Financial Incentives, Health Screening, and Selection (Breza et al., 2026).pdf"
+  coauthors: "Emily Breza, Kevin Carney, Vijaya Raghavan, Kailash Rajah, Thara Rangaswamy, Frank Schilbach, Sobia Shadbar"
+  note: "Current Version: Jan 2026"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/15379"
+      text: "Pre-Registration"
+  abstract: >
+      In an RCT with college students in Chennai (N=340), we test how modest financial incentives and personalized feedback affect the uptake and targeting (by symptom severity) of free therapy. Despite 56% of students screening positive for at least mild depression or anxiety, only 3% in the control group took up therapy. A small cash incentive increased appointments by 9 percentage points (p = 0.06) on average without substantially affecting targeting. Personalized feedback and recommendations based on a mental health screening tool significantly improved targeting while keeping overall take-up largely unchanged. Combining these two treatments achieved both higher take-up and improved targeting, by increasing appointments among symptomatic individuals by 21 pp (p < 0.01) without affecting uptake by asymptomatic individuals. These findings suggest that low-cost incentives coupled with screening information can effectively increase uptake while allocating limited mental health care resources to those with greater need.
+
 - title: "Not Learning from Others"
   pdflink: "/pdf/Not Learning from Others.pdf"
   coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
   book: "Conditionally Accepted, Journal of Political Economy"
-  note: "Current Version: Dec 2025"
+  note: "Current Version: Jan 2026"
   links:
     - url: "https://www.socialscienceregistry.org/trials/4253"
       text: "Pre-Registration"
   abstract: >
       We study social learning using experiments where two people independently learn relevant information and can share their information to make accurate private decisions. Across three experiments, people are substantially less sensitive to information others discover than to equally-relevant information they discovered themselves. This holds when they must learn information from others through discussion; when the experimenter perfectly communicates the information; and even when participants observe others’ information with their own eyes. Thus, our results stem not from a failure to elicit information from others but a systematic tendency to underweight it relative to one’s own information. Our findings illustrate a powerful barrier to social learning that might underlie many documented cases of failure to learn from others.
+
 - title: "The Endowment Effect and Collateralized Loans"
   pdflink: "/pdf/Rao_Endowment_Effect_Collateralized_Loans.pdf"
   coauthors: "Kevin Carney, Michael Kremer and Xinyue Lin"
