@@ -1,4 +1,18 @@
 works:
+- title: "Laboratories of Democracy? Experimental Evidence on Policy Diffusion between Municipalities in Brazil"
+   coauthors: "Ines Badin, Jonas Hjort, Diana Moreira, Juan Santini"
+  note: "Current Version: Feb 2026"
+  abstract: >
+      How do public policies diffuse across governments? We study the adoption of a simple, low-cost, and relatively uncontroversial tax policy by municipal governments in Brazil. We revisit a field experiment that randomized 1,818 mayors to an information treatment where they learned about the policy and its effectiveness. We test whether the information treatment has an effect on the policy adoption of other municipalities. We find robust evidence of quantitatively large spillovers. The indirect impact of geographic spillovers on adoption is comparable in magnitude to the direct treatment effect. Having a treated neighbor influences municipalities that were themselves treated, suggesting that these policy spillovers are not driven merely by the spread of the originally-provided information. Geographic proximity plays the largest role in generating policy diffusion; political party and economic/demographic similarity play less of a role. Using unique survey data on mayors’ networks, we show that communication patterns mirror this hierarchy of importance, with geographic proximity emerging as the strongest predictor.
+- title: "Incentives, Information, and Reminders for Bureaucrats: Overcoming Barriers to the Scale Up of an Effective Policy"
+   coauthors: "Patrick Agte, Daniel Morales, Christopher Neilson, Sebastian Otero"
+  note: "Current Version: Feb 2026"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/3324"
+      text: "Pre-Registration"
+  abstract: >
+      Scaling up effective policies within government often requires the attention and effort of mid-level bureaucrats with many responsibilities. In contexts with weak state capacity, selection of effective policies at high levels may thus not translate into change on the ground. In a nationwide field experiment in the Dominican Republic, we test different behavioral interventions with school principals to boost the implementation of an educational program that was found to be effective in a previous RCT. Only 37% of the control schools implemented the program when the ministry ordered it as usual. Implementation was no higher among schools which had previously implemented the program in the RCT, suggesting that the fixed costs of learning how to implement the program do not explain non-adoption. We find precise null effects of sharing research findings regarding the effectiveness of the program or of offering a modest reward for implementation. In contrast, we find large effects (20 percentage points) of simply reminding the school principals several times of the assigned task. In a second experiment aiming to increase compliance with a different program, we again find a large effect of simply reminding principals of the assigned program. Our findings point to the need to take seriously the limited attentional capacity of implementing bureaucrats when scaling up policy.
+
 - title: "Financial Incentives, Health Screening, and Selection into Mental Health Care: Experimental Evidence from College Students in India"
   pdflink: "/pdf/Financial Incentives, Health Screening, and Selection (Breza et al., 2026).pdf"
   coauthors: "Emily Breza, Kevin Carney, Vijaya Raghavan, Kailash Rajah, Thara Rangaswamy, Frank Schilbach, Sobia Shadbar"
