@@ -2,7 +2,7 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: ["source"]  # I noticed your default branch is named 'source'
+    branches: ["source"]
   workflow_dispatch:
 
 permissions:
@@ -34,6 +34,10 @@ jobs:
           submodules: recursive
       - name: Build with Hugo
         run: hugo --minify
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
 
   deploy:
     environment:
