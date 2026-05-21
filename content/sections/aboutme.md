@@ -6,4 +6,4 @@ Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral 
 
 __[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated May 2024)
 
-__[Research Statement](/pdf/Rao Research Statement.pdf")__ 
+__[Research Statement](/pdf/Rao_Research_Statement.pdf")__ 
