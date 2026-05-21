@@ -114,5 +114,15 @@ works:
   abstract: >
       We design three field experiments to estimate the nature and magnitude of workers’ social preferences towards their employers. The experiments vary the return to the employer and employer generosity towards workers (“gifts”). Including variation in pay rates—either piece rates or wage rates—allows us to estimate the elasticity of work outcomes and benchmark the workers' social preferences toward the employer. The first experiment measures productivity—units of output produced in a fixed amount of time. The second and third experiments measure the willingness to do extra work. We document that productivity is rather unresponsive to financial incentives, while the willingness to perform extra work is very responsive. In terms of social preferences, we document, first, that workers exert effort for their employer even in the absence of private incentives, but are insensitive to the return to the employer. This result is consistent with models of warm glow or social norms regarding work effort, but not pure altruism towards the employer. Second, while we do not detect any effect of the gifts in the productivity experiment, we find moderate positive impacts in the extra-work experiments. We show that this difference is partly explained by the disparate elasticities of productivity and extra work.
 
+- title: "Not Learning from Others"
+  pdflink: "/pdf/Not Learning from Others.pdf"
+  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
   book: "Accepted, Journal of Political Economy"
+  note: "Current Version: Jan 2026"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/4253"
+      text: "Pre-Registration"
+  abstract: >
+      We study social learning using experiments where two people independently learn relevant information and can share their information to make accurate private decisions. Across three experiments, people are substantially less sensitive to information others discover than to equally-relevant information they discovered themselves. This holds when they must learn information from others through discussion; when the experimenter perfectly communicates the information; and even when participants observe others’ information with their own eyes. Thus, our results stem not from a failure to elicit information from others but a systematic tendency to underweight it relative to one’s own information. Our findings illustrate a powerful barrier to social learning that might underlie many documented cases of failure to learn from others.
+
 
