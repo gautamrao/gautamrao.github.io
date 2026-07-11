@@ -1,14 +1,12 @@
 works:
 - title: "Laboratories of Democracy? Experimental Evidence on Policy Diffusion between Municipalities in Brazil"
   coauthors: "Ines Badin, Jonas Hjort, Diana Moreira, Juan Santini"
-  note: "Current Version: Feb 2026"
   abstract: >
       How do public policies diffuse across governments? We study the adoption of a simple, low-cost, and relatively uncontroversial tax policy by municipal governments in Brazil. We revisit a field experiment that randomized 1,818 mayors to an information treatment where they learned about the policy and its effectiveness. We test whether the information treatment has an effect on the policy adoption of other municipalities. We find robust evidence of quantitatively large spillovers. The indirect impact of geographic spillovers on adoption is comparable in magnitude to the direct treatment effect. Having a treated neighbor influences municipalities that were themselves treated, suggesting that these policy spillovers are not driven merely by the spread of the originally-provided information. Geographic proximity plays the largest role in generating policy diffusion; political party and economic/demographic similarity play less of a role. Using unique survey data on mayors’ networks, we show that communication patterns mirror this hierarchy of importance, with geographic proximity emerging as the strongest predictor.
 
 - title: "Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up"
   pdflink: "/pdf/Reminders for bureaucrats.pdf"
   coauthors: "Patrick Agte, Daniel Morales, Christopher Neilson, Sebastian Otero"
-  note: "Current Version: May 2026"
   links:
     - url: "https://www.socialscienceregistry.org/trials/3324"
       text: "Pre-Registration"
@@ -19,7 +17,6 @@ works:
   pdflink: "/pdf/Rao_Therapy_Incentives_Screening.pdf"
   coauthors: "Emily Breza, Kevin Carney, Vijaya Raghavan, Kailash Rajah, Thara Rangaswamy, Frank Schilbach, Sobia Shadbar"
   book: "Revise and Resubmit, Journal of the European Economic Association (JEEA)"
-  note: "Current Version: Jan 2026"
   links:
     - url: "https://www.socialscienceregistry.org/trials/15379"
       text: "Pre-Registration"
@@ -30,23 +27,20 @@ works:
   pdflink: "/pdf/Rao_Endowment_Effect_Collateralized_Loans.pdf"
   coauthors: "Kevin Carney, Michael Kremer and Xinyue Lin"
   book: "Revise and Resubmit, Econometrica"
-  note: "Current Version: May 2022"
   abstract: >
       Collateral requirements play an important role in credit markets. This paper shows that the endowment effect---the phenomenon where owing a good increases one's valuation of it---inhibits demand for loans which use a borrower's existing assets as collateral. Using a field experiment in Kenya, we show that borrowers instead strongly prefer loans collateralized using the new durable assets being financed by the loans themselves. They are willing to pay 9% per month higher interest for such Same-Asset Collateralized Loans (SACLs) despite the endowed and new assets being randomized, and thus similarly valued before ownership. Our findings imply that assets which are difficult to use as collateral---which cannot be financed by SACLs---will be invested in less, even if the borrower has other collateral. We argue that borrowers' preference for SACLs is driven by naivete: they initially perceive that they have little to lose when offered a SACL, but subsequently come to develop an attachment to the new asset, resulting in high repayment effort. Consistent with this, borrowers underestimate their future attachment to an asset before owning it, and SACLs do not have higher default rates despite having higher demand. We derive the conditions under which offering consumers SACLs increases or conversely decreases borrower welfare.
 
 - title: "Learning in the Household"
   pdflink: "/pdf/Learning in the Household.pdf"
   coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  note: "New Version: October 2022"
   links:
     - url: "https://www.socialscienceregistry.org/trials/4253"
       text: "Pre-Registration"
   abstract: >
-      Do spouses pool useful information and  learn from each other when they have incentives to do so? In an experiment with married couples in India, we vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their own and their husband's information the same. In contrast, men respond half as much to information discovered by their wife, even when it is perfectly communicated. When paired with strangers, both men and women heavily discount their partner's information relative to their own. We thus provide evidence of a gender difference in social learning (only)  in the household.
+      How well do spouses pool information and learn from each other when they have incentives to do so? In an experiment with married couples in India, we vary whether individuals discover information themselves or must instead learn it from their spouse. Women's individual decisions respond equally to their own and their husbands' information. In contrast, men's decisions respond only half as much to their wives' information, even when it is perfectly communicated. Joint decision-making instead leads to equal weights on husbands' and wives' information. Our findings suggest that decisions made by men, at least in our study context, are likely to insufficiently incorporate useful information held by their wives.
 
 - title: "The Long-Run Effects of Psychotherapy on Depression, Beliefs, and Economic Outcomes"
   pdflink: "/pdf/Rao_psychotherapy_paper.pdf"
   coauthors: "Bhargav Bhat, Jon de Quidt, Johannes Haushofer, Vikram Patel, Frank Schilbach and Pierre-Luc Vautrey"
-  note: "Current Version: April 2022"
   abstract: >
       We revisit two clinical trials that randomized depressed adults in India (n=775) to a brief course of psychotherapy or a control condition. Four to five years later, the treatment group had 11 percentage points less depression than the control group. The more effective intervention averted 9 months of depression on average over five years and cost only \$66. Therapy changed people's beliefs about themselves in three ways. First, it reduced their likelihood of seeing themselves as a failure or feeling bad about themselves. Second, when faced with a novel work opportunity, therapy reduced over-optimistic belief updating and thus reduced overconfidence. Third, it increased self-assessed levels of patience and altruism. Therapy did not increase levels of employment or consumption, possibly because of other constraints on employment in the largely female study sample.
