@@ -124,4 +124,13 @@ works:
   abstract: >
       We study social learning using experiments where two people independently learn relevant information and can share their information to make accurate private decisions. Across three experiments, people are substantially less sensitive to information others discover than to equally-relevant information they discovered themselves. This holds when they must learn information from others through discussion; when the experimenter perfectly communicates the information; and even when participants observe others’ information with their own eyes. Thus, our results stem not from a failure to elicit information from others but a systematic tendency to underweight it relative to one’s own information. Our findings illustrate a powerful barrier to social learning that might underlie many documented cases of failure to learn from others.
 
+- title: "Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up"
+  pdflink: "/pdf/RemindersForBureaucrats.pdf"
+  coauthors: "Patrick Agte, Daniel Morales, Christopher Neilson, Sebastian Otero"
+  book: "Accepted, Journal of Political Economy: Micro"
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/3324"
+      text: "Pre-Registration"
+  abstract: >
+      Scaling up effective policies often requires the attention of frontline bureaucrats with many competing responsibilities. Even when policymakers adopt effective programs, implementation may not follow. In a nationwide experiment in the Dominican Republic, we test interventions to increase school principals' implementation of an educational program proven effective in a previous RCT. Only 37% of control schools verifiably implemented the intervention when ordered to by the Ministry of Education, compared with 83% in the original trial. Implementation was no higher among schools that previously implemented the program in the RCT, suggesting that fixed costs of adoption do not explain non-adoption. We find precise null effects of sharing research evidence, providing modest financial incentives, or offering implementation assistance to principals. In contrast, additional reminder calls increased implementation by 20 percentage points. A second experiment targeting a different mandated program yields the same pattern: reminders produce large effects, while monitoring messages have smaller effects. Our findings point to limited attention among bureaucrats as an important barrier to scaling policies.
 
